@@ -23,6 +23,17 @@ _CAT_COLOR = {
 }
 _WD = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 
+# Per-category label for the "entry" button (where to watch/read the result).
+_ACTION_LABEL = {
+    "earnings": "看财报 / 电话会",
+    "macro": "看数据发布",
+    "fed": "看声明 / 发布会",
+    "conference": "看直播 / 主题演讲",
+    "ipo": "看招股 / 行情",
+    "options": "了解详情",
+    "index": "了解详情",
+}
+
 _CSS = """
 :root{--bg:#0f1115;--card:#1a1d24;--ink:#e8eaed;--muted:#9aa0aa;--line:#2a2e37;}
 *{box-sizing:border-box}
@@ -53,6 +64,8 @@ h2{font-size:16px;margin:26px 0 6px;}
 .bm{font-size:11px;padding:1px 7px;border-radius:999px;margin-left:4px;}
 .beat{background:rgba(46,160,67,.15);color:#5fd97a;} .miss{background:rgba(229,83,75,.15);color:#ff8079;}
 .src{font-size:12px;} a{color:#4c8bf5;text-decoration:none;} a:hover{text-decoration:underline;}
+.action{display:inline-block;font-size:12.5px;font-weight:700;color:#0f1115;padding:5px 12px;border-radius:7px;}
+.action:hover{text-decoration:none;filter:brightness(1.1);}
 .disc{background:#1a1410;border:1px solid #3a2a18;color:#e9c98f;border-radius:10px;padding:11px 14px;font-size:12.5px;margin:14px 0;}
 footer{margin-top:30px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:14px;}
 .empty{color:var(--muted);padding:8px 0;}
@@ -113,8 +126,10 @@ def _card(e: Event, today: dt.date) -> str:
     tickers = "".join(f'<span class="tk">{_esc(t)}</span>' for t in (e.tickers or []))
     when = e.time_et or ""
     extra = _earnings_extra(e.meta) if e.category == "earnings" else ""
-    src = (f'<a class="src" href="{_esc(e.source_url)}" target="_blank" rel="noopener">来源 ↗</a>'
-           if e.source_url else "")
+    label = _ACTION_LABEL.get(e.category, "查看")
+    action = (f'<a class="action" style="background:{color}" href="{_esc(e.source_url)}"'
+              f' target="_blank" rel="noopener">▶ {label} ↗</a>'
+              if e.source_url else "")
     return f"""<div class="card" style="border-left-color:{color}">
   <div class="row">
     <span class="catb" style="background:{color}">{_esc(cat_zh)}</span>
@@ -125,7 +140,7 @@ def _card(e: Event, today: dt.date) -> str:
   <div class="row" style="margin-top:6px">{tickers}</div>
   {extra}
   <div class="watch"><b>看点:</b> {_esc(e.watch)}</div>
-  <div class="row" style="margin-top:6px">{src}</div>
+  <div class="row" style="margin-top:8px">{action}</div>
 </div>"""
 
 

@@ -11,7 +11,7 @@ events:
     title: "非农就业报告 (5月)"
     importance: 3
     watch: "就业强弱直接影响美联储降息路径;成长股对利率敏感"
-    source_url: "https://www.bls.gov/schedule/news_release/empsit.htm"
+    source_url: "https://www.bls.gov/news.release/empsit.nr0.htm"
 
   - date: 2026-06-10
     time_et: "08:30"
@@ -19,7 +19,7 @@ events:
     title: "CPI 通胀数据 (5月)"
     importance: 3
     watch: "通胀超预期 → 成长股承压;降温 → 风险偏好回升。本月第一个大雷点"
-    source_url: "https://www.bls.gov/schedule/news_release/cpi.htm"
+    source_url: "https://www.bls.gov/news.release/cpi.nr0.htm"
 
   - date: 2026-06-16
     end_date: 2026-06-17
@@ -36,7 +36,7 @@ events:
     title: "PCE 物价指数 (5月) — 美联储偏好的通胀口径"
     importance: 2
     watch: "美联储最看重的通胀指标,影响降息时点"
-    source_url: "https://www.bea.gov/news/schedule"
+    source_url: "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
 
   # --- full-year FOMC (verified) ---
   - date: 2026-07-28
