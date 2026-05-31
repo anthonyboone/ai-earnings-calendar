@@ -1,7 +1,21 @@
 {
-  "generated": "2026-05-31T10:33:04.696501+00:00",
+  "generated": "2026-05-31T10:38:01.278513+00:00",
   "today": "2026-05-31",
   "events": [
+    {
+      "date": "2026-05-31",
+      "category": "conference",
+      "title": "Cisco Live 2026 (Las Vegas)",
+      "importance": 2,
+      "end_date": "2026-06-04",
+      "time_et": "",
+      "tickers": [
+        "CSCO"
+      ],
+      "watch": "AI 数据中心网络、安全、企业 AI 基础设施",
+      "source_url": "https://www.ciscolive.com/global.html",
+      "meta": {}
+    },
     {
       "date": "2026-06-01",
       "category": "conference",
@@ -41,6 +55,20 @@
         "last_eps_actual": 1.07,
         "last_eps_estimate": 0.94073
       }
+    },
+    {
+      "date": "2026-06-01",
+      "category": "conference",
+      "title": "Snowflake Summit 2026 (旧金山)",
+      "importance": 2,
+      "end_date": "2026-06-04",
+      "time_et": "",
+      "tickers": [
+        "SNOW"
+      ],
+      "watch": "Snowflake Cortex AI / 数据云 AI 战略;影响数据股情绪",
+      "source_url": "https://www.snowflake.com/en/summit/",
+      "meta": {}
     },
     {
       "date": "2026-06-01",
@@ -390,6 +418,22 @@
       }
     },
     {
+      "date": "2026-06-15",
+      "category": "conference",
+      "title": "Databricks Data + AI Summit 2026 (旧金山)",
+      "importance": 2,
+      "end_date": "2026-06-18",
+      "time_et": "",
+      "tickers": [
+        "SNOW",
+        "MDB",
+        "DDOG"
+      ],
+      "watch": "数据+AI 平台趋势;Databricks(未上市)动向,影响 SNOW/MDB 等情绪",
+      "source_url": "https://www.databricks.com/dataaisummit",
+      "meta": {}
+    },
+    {
       "date": "2026-06-16",
       "category": "fed",
       "title": "FOMC 议息会议 — Warsh 新主席首秀 (含点阵图)",
@@ -409,8 +453,20 @@
       "end_date": "",
       "time_et": "",
       "tickers": [],
-      "watch": "股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异(同日 S&P 季度再平衡)",
+      "watch": "股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异",
       "source_url": "",
+      "meta": {}
+    },
+    {
+      "date": "2026-06-19",
+      "category": "index",
+      "title": "标普 500 / 中小盘 季度再平衡生效",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [],
+      "watch": "标普指数季度调整当日生效;新纳入个股被动买入需求,尾盘成交放大",
+      "source_url": "https://www.spglobal.com/spdji/en/governance/methodology/",
       "meta": {}
     },
     {
