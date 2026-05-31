@@ -34,3 +34,78 @@ events:
     tickers: [AAPL]
     watch: "Apple Intelligence / 端侧 AI / Siri 进展;输了继续被嘲讽"
     source_url: "https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/"
+
+  # --- more AI conferences (dates verified) ---
+  - date: 2026-05-31
+    end_date: 2026-06-04
+    category: conference
+    title: "Cisco Live 2026 (Las Vegas)"
+    importance: 2
+    tickers: [CSCO]
+    watch: "AI 数据中心网络、安全、企业 AI 基础设施"
+    source_url: "https://www.ciscolive.com/global.html"
+
+  - date: 2026-06-01
+    end_date: 2026-06-04
+    category: conference
+    title: "Snowflake Summit 2026 (旧金山)"
+    importance: 2
+    tickers: [SNOW]
+    watch: "Snowflake Cortex AI / 数据云 AI 战略;影响数据股情绪"
+    source_url: "https://www.snowflake.com/en/summit/"
+
+  - date: 2026-06-15
+    end_date: 2026-06-18
+    category: conference
+    title: "Databricks Data + AI Summit 2026 (旧金山)"
+    importance: 2
+    tickers: [SNOW, MDB, DDOG]
+    watch: "数据+AI 平台趋势;Databricks(未上市)动向,影响 SNOW/MDB 等情绪"
+    source_url: "https://www.databricks.com/dataaisummit"
+
+  - date: 2026-09-15
+    end_date: 2026-09-17
+    category: conference
+    title: "Salesforce Dreamforce 2026"
+    importance: 2
+    tickers: [CRM]
+    watch: "Agentforce / 企业 AI agent 进展与变现"
+    source_url: "https://www.salesforce.com/dreamforce/"
+
+  - date: 2026-09-23
+    end_date: 2026-09-24
+    category: conference
+    title: "Meta Connect 2026"
+    importance: 2
+    tickers: [META]
+    watch: "AI 眼镜 / Quest、端侧 AI 与广告 AI"
+    source_url: "https://www.meta.com/connect/"
+
+  - date: 2026-09-29
+    category: conference
+    title: "OpenAI DevDay 2026"
+    importance: 2
+    tickers: [MSFT, NVDA]
+    watch: "OpenAI 新模型 / API;影响整个 AI 应用层与算力需求叙事"
+    source_url: "https://openai.com/devday/"
+
+  - date: 2026-11-30
+    end_date: 2026-12-04
+    category: conference
+    title: "AWS re:Invent 2026 (Las Vegas)"
+    importance: 2
+    tickers: [AMZN]
+    watch: "AWS AI 服务、自研芯片 Trainium/Inferentia、云增速"
+    source_url: "https://aws.amazon.com/events/reinvent/"
+
+  # --- 政策/监管 (category: policy) ---
+  # 只在有"确定日期"时添加(如法院裁决日、关税/出口管制生效日、听证日)。
+  # 不要凭传闻填日期。示例模板(取消注释并填真实日期):
+  # - date: 2026-XX-XX
+  #   category: policy
+  #   title: "Google 广告技术(AdX)反垄断补救裁决"
+  #   importance: 3
+  #   tickers: [GOOGL]
+  #   watch: "是否拆分广告业务;对 GOOGL 及广告科技股影响"
+  #   source_url: "https://www.justice.gov/atr"
+

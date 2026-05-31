@@ -15,6 +15,7 @@ CATEGORIES = {
     "macro": "宏观数据",
     "fed": "美联储/货币政策",
     "conference": "发布会 / 大会",
+    "policy": "政策 / 监管",
     "ipo": "IPO / 上市",
     "options": "期权到期",
     "index": "指数重构",

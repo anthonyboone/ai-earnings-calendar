@@ -73,11 +73,18 @@ def deterministic_events(start: dt.date, end: dt.date) -> list[Event]:
                 date=opex.isoformat(), category="options",
                 title="期权四巫日 (季度衍生品到期)" if quad else "月度期权到期日 (OpEx)",
                 importance=3 if quad else 1,
-                watch=("股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异"
-                       + ("(同日 S&P 季度再平衡)" if quad else ""))
+                watch="股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异"
                       if quad else "月度期权到期,尾盘波动可能放大",
                 source_url="",
             ))
+            if quad:
+                out.append(Event(
+                    date=opex.isoformat(), category="index",
+                    title="标普 500 / 中小盘 季度再平衡生效",
+                    importance=2,
+                    watch="标普指数季度调整当日生效;新纳入个股被动买入需求,尾盘成交放大",
+                    source_url="https://www.spglobal.com/spdji/en/governance/methodology/",
+                ))
         # Russell annual reconstitution — effective after close, last Friday of June
         if m == 6:
             rus = _last_friday(y, 6)
