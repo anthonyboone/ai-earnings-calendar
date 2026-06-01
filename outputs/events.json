@@ -1,21 +1,7 @@
 {
-  "generated": "2026-05-31T12:15:15.757435+00:00",
-  "today": "2026-05-31",
+  "generated": "2026-06-01T14:23:08.878338+00:00",
+  "today": "2026-06-01",
   "events": [
-    {
-      "date": "2026-05-31",
-      "category": "conference",
-      "title": "Cisco Live 2026 (Las Vegas)",
-      "importance": 2,
-      "end_date": "2026-06-04",
-      "time_et": "",
-      "tickers": [
-        "CSCO"
-      ],
-      "watch": "AI 数据中心网络、安全、企业 AI 基础设施",
-      "source_url": "https://www.ciscolive.com/global.html",
-      "meta": {}
-    },
     {
       "date": "2026-06-01",
       "category": "conference",
@@ -35,29 +21,6 @@
     },
     {
       "date": "2026-06-01",
-      "category": "earnings",
-      "title": "Credo Technology 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CRDO"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/CRDO",
-      "meta": {
-        "ticker": "CRDO",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 1.03414,
-        "revenue_estimate": 433297910.0,
-        "last_quarter": "2026-01-31",
-        "last_eps_actual": 1.07,
-        "last_eps_estimate": 0.94073
-      }
-    },
-    {
-      "date": "2026-06-01",
       "category": "conference",
       "title": "Snowflake Summit 2026 (旧金山)",
       "importance": 2,
@@ -69,29 +32,6 @@
       "watch": "Snowflake Cortex AI / 数据云 AI 战略;影响数据股情绪",
       "source_url": "https://www.snowflake.com/en/summit/",
       "meta": {}
-    },
-    {
-      "date": "2026-06-01",
-      "category": "earnings",
-      "title": "Hewlett Packard Enterprise 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "HPE"
-      ],
-      "watch": "AI 服务器订单与收入、电力/散热需求",
-      "source_url": "https://finance.yahoo.com/quote/HPE",
-      "meta": {
-        "ticker": "HPE",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 0.53459,
-        "revenue_estimate": 9768298880.0,
-        "last_quarter": "2026-01-31",
-        "last_eps_actual": 0.65,
-        "last_eps_estimate": 0.58689
-      }
     },
     {
       "date": "2026-06-02",
@@ -537,6 +477,29 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 7.15,
         "last_eps_estimate": 6.621
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "category": "earnings",
+      "title": "TSMC 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TSM"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/TSM",
+      "meta": {
+        "ticker": "TSM",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 3.73677,
+        "revenue_estimate": 1261426554000.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 3.49,
+        "last_eps_estimate": 3.33393
       }
     }
   ]
