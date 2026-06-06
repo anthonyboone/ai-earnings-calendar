@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T21:50:20.045867+00:00",
+  "generated": "2026-06-06T04:21:17.831795+00:00",
   "today": "2026-06-06",
   "events": [
     {
@@ -32,8 +32,8 @@
         "ticker": "ORCL",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 1.96163,
-        "revenue_estimate": 19099854300.0,
+        "eps_estimate": 1.96181,
+        "revenue_estimate": 19093705860.0,
         "last_quarter": "2026-02-28",
         "last_eps_actual": 1.79,
         "last_eps_estimate": 1.69362
@@ -67,8 +67,8 @@
         "ticker": "ADBE",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 5.82516,
-        "revenue_estimate": 6454288800.0,
+        "eps_estimate": 5.81384,
+        "revenue_estimate": 6451152870.0,
         "last_quarter": "2026-02-28",
         "last_eps_actual": 6.06,
         "last_eps_estimate": 5.87314
@@ -189,8 +189,8 @@
         "ticker": "ASML",
         "subsector": "Semiconductor equipment",
         "date_confirmed": true,
-        "eps_estimate": 6.86174,
-        "revenue_estimate": 8890818700.0,
+        "eps_estimate": 6.84519,
+        "revenue_estimate": 8891151530.0,
         "last_quarter": "2026-03-31",
         "last_eps_actual": 7.15,
         "last_eps_estimate": 6.621
@@ -212,8 +212,8 @@
         "ticker": "TSM",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 3.73677,
-        "revenue_estimate": 1261426554000.0,
+        "eps_estimate": 3.74091,
+        "revenue_estimate": 1261639796270.0,
         "last_quarter": "2026-03-31",
         "last_eps_actual": 3.49,
         "last_eps_estimate": 3.33393
