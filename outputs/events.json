@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-07T04:57:33.456663+00:00",
-  "today": "2026-06-07",
+  "generated": "2026-06-07T17:43:22.853486+00:00",
+  "today": "2026-06-08",
   "events": [
     {
       "date": "2026-06-08",
@@ -344,6 +344,52 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.41,
         "last_eps_estimate": 0.34999
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "category": "earnings",
+      "title": "Intel 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "INTC"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/INTC",
+      "meta": {
+        "ticker": "INTC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.21129,
+        "revenue_estimate": 14404009660.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.29,
+        "last_eps_estimate": 0.01313
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "category": "earnings",
+      "title": "Alphabet (Google) 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "GOOGL"
+      ],
+      "watch": "云增速、AI capex 资本开支、AI 变现",
+      "source_url": "https://finance.yahoo.com/quote/GOOGL",
+      "meta": {
+        "ticker": "GOOGL",
+        "subsector": "Hyperscale / cloud",
+        "date_confirmed": true,
+        "eps_estimate": 2.87539,
+        "revenue_estimate": 116633901430.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 5.11,
+        "last_eps_estimate": 2.66714
       }
     }
   ]
