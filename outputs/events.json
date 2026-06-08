@@ -1,21 +1,7 @@
 {
-  "generated": "2026-06-08T05:02:53.585981+00:00",
-  "today": "2026-06-08",
+  "generated": "2026-06-08T18:38:19.910481+00:00",
+  "today": "2026-06-09",
   "events": [
-    {
-      "date": "2026-06-08",
-      "category": "conference",
-      "title": "Apple WWDC 2026 (Keynote 6/8)",
-      "importance": 2,
-      "end_date": "2026-06-12",
-      "time_et": "13:00",
-      "tickers": [
-        "AAPL"
-      ],
-      "watch": "Apple Intelligence / 端侧 AI / Siri 进展;输了继续被嘲讽",
-      "source_url": "https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/",
-      "meta": {}
-    },
     {
       "date": "2026-06-10",
       "category": "earnings",
