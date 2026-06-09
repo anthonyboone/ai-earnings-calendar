@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T18:24:51.506540+00:00",
+  "generated": "2026-06-09T22:00:53.038488+00:00",
   "today": "2026-06-10",
   "events": [
     {
@@ -348,8 +348,8 @@
         "ticker": "GOOGL",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 2.87539,
-        "revenue_estimate": 116633901430.0,
+        "eps_estimate": 2.8779,
+        "revenue_estimate": 116647754250.0,
         "last_quarter": "2026-03-31",
         "last_eps_actual": 5.11,
         "last_eps_estimate": 2.66714
