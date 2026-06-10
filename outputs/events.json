@@ -1,42 +1,7 @@
 {
-  "generated": "2026-06-10T04:50:05.122982+00:00",
-  "today": "2026-06-10",
+  "generated": "2026-06-10T18:45:01.858612+00:00",
+  "today": "2026-06-11",
   "events": [
-    {
-      "date": "2026-06-10",
-      "category": "macro",
-      "title": "CPI 通胀数据 (5月)",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "08:30",
-      "tickers": [],
-      "watch": "通胀超预期 → 成长股承压;降温 → 风险偏好回升。本月第一个大雷点",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "meta": {}
-    },
-    {
-      "date": "2026-06-11",
-      "category": "earnings",
-      "title": "Adobe 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ADBE"
-      ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
-      "source_url": "https://finance.yahoo.com/quote/ADBE",
-      "meta": {
-        "ticker": "ADBE",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 5.81474,
-        "revenue_estimate": 6451397410.0,
-        "last_quarter": "2026-02-28",
-        "last_eps_actual": 6.06,
-        "last_eps_estimate": 5.87314
-      }
-    },
     {
       "date": "2026-06-15",
       "category": "conference",
