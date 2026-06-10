@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T22:00:53.038488+00:00",
+  "generated": "2026-06-10T04:50:05.122982+00:00",
   "today": "2026-06-10",
   "events": [
     {
@@ -30,8 +30,8 @@
         "ticker": "ADBE",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 5.81384,
-        "revenue_estimate": 6451152870.0,
+        "eps_estimate": 5.81474,
+        "revenue_estimate": 6451397410.0,
         "last_quarter": "2026-02-28",
         "last_eps_actual": 6.06,
         "last_eps_estimate": 5.87314
@@ -105,8 +105,8 @@
         "ticker": "MU",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 19.30822,
-        "revenue_estimate": 33818351730.0,
+        "eps_estimate": 19.47056,
+        "revenue_estimate": 34024205759.0,
         "last_quarter": "2026-02-28",
         "last_eps_actual": 12.2,
         "last_eps_estimate": 9.15866
@@ -302,7 +302,7 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45432,
+        "eps_estimate": 0.45414,
         "revenue_estimate": 24625317630.0,
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.41,
