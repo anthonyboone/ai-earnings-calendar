@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T05:00:09.378907+00:00",
-  "today": "2026-06-11",
+  "generated": "2026-06-11T19:15:15.135207+00:00",
+  "today": "2026-06-12",
   "events": [
     {
       "date": "2026-06-15",
@@ -318,6 +318,98 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 5.11,
         "last_eps_estimate": 2.66714
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "category": "earnings",
+      "title": "Rambus 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "RMBS"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/RMBS",
+      "meta": {
+        "ticker": "RMBS",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.72,
+        "revenue_estimate": 198800000.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.63,
+        "last_eps_estimate": 0.63625
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "category": "earnings",
+      "title": "Amkor Technology 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AMKR"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/AMKR",
+      "meta": {
+        "ticker": "AMKR",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.47463,
+        "revenue_estimate": 1803192010.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.33,
+        "last_eps_estimate": 0.24337
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "category": "earnings",
+      "title": "Ultra Clean Holdings 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "UCTT"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/UCTT",
+      "meta": {
+        "ticker": "UCTT",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.53041,
+        "revenue_estimate": 586530000.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.31,
+        "last_eps_estimate": 0.2625
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "category": "earnings",
+      "title": "Cadence Design Systems 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CDNS"
+      ],
+      "watch": "设计活动、AI 芯片设计需求",
+      "source_url": "https://finance.yahoo.com/quote/CDNS",
+      "meta": {
+        "ticker": "CDNS",
+        "subsector": "EDA / chip design",
+        "date_confirmed": true,
+        "eps_estimate": 2.05477,
+        "revenue_estimate": 1575705030.0,
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.96,
+        "last_eps_estimate": 1.88506
       }
     }
   ]
