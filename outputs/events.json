@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12",
-  "today": "2026-06-12",
+  "generated": "2026-06-13",
+  "today": "2026-06-13",
   "events": [
     {
       "date": "2026-06-15",
@@ -448,6 +448,30 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.96,
         "last_eps_estimate": 1.88506
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "category": "earnings",
+      "title": "Seagate 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "STX"
+      ],
+      "watch": "HBM/存储价格与供给、AI 拉动",
+      "source_url": "https://finance.yahoo.com/quote/STX",
+      "meta": {
+        "ticker": "STX",
+        "subsector": "Memory / storage (AI)",
+        "date_confirmed": true,
+        "eps_estimate": 5.0753,
+        "revenue_estimate": 3482060330.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 4.1,
+        "last_eps_estimate": 3.51146
       }
     }
   ]
