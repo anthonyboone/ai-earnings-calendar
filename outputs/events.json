@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14",
-  "today": "2026-06-14",
+  "generated": "2026-06-15",
+  "today": "2026-06-15",
   "events": [
     {
       "date": "2026-06-15",
@@ -797,6 +797,186 @@
         "last_eps_actual": 0.47,
         "last_eps_estimate": 0.40858
       }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "Monolithic Power Systems 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "MPWR"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/MPWR",
+      "meta": {
+        "ticker": "MPWR",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 5.85953,
+        "revenue_estimate": 902124130.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 5.1,
+        "last_eps_estimate": 4.90131
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "ASE Technology 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ASX"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/ASX",
+      "meta": {
+        "ticker": "ASX",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.23908,
+        "revenue_estimate": 189190693550.0,
+        "revenue_currency": "TWD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.195,
+        "last_eps_estimate": 0.16761
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "KLA 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "KLAC"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/KLAC",
+      "meta": {
+        "ticker": "KLAC",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.99538,
+        "revenue_estimate": 3597735290.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.94,
+        "last_eps_estimate": 0.91703
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "Entegris 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ENTG"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/ENTG",
+      "meta": {
+        "ticker": "ENTG",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.81544,
+        "revenue_estimate": 833011400.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.86,
+        "last_eps_estimate": 0.74506
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "Amazon 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AMZN"
+      ],
+      "watch": "云增速、AI capex 资本开支、AI 变现",
+      "source_url": "https://finance.yahoo.com/quote/AMZN",
+      "meta": {
+        "ticker": "AMZN",
+        "subsector": "Hyperscale / cloud",
+        "date_confirmed": true,
+        "eps_estimate": 1.81367,
+        "revenue_estimate": 195709314190.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.78,
+        "last_eps_estimate": 1.65303
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "Cloudflare 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NET"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/NET",
+      "meta": {
+        "ticker": "NET",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.26976,
+        "revenue_estimate": 666362910.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.25,
+        "last_eps_estimate": 0.23357
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
+      "title": "Apple 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AAPL"
+      ],
+      "watch": "AI 功能落地、用户与变现",
+      "source_url": "https://finance.yahoo.com/quote/AAPL",
+      "meta": {
+        "ticker": "AAPL",
+        "subsector": "Consumer / platform AI",
+        "date_confirmed": true,
+        "eps_estimate": 1.89541,
+        "revenue_estimate": 109023320870.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.01,
+        "last_eps_estimate": 1.94275
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "macro",
+      "title": "PCE 物价指数 (6月)",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "美联储最看重的通胀指标,影响降息时点",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "meta": {}
     }
   ]
 }
