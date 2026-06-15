@@ -1,23 +1,7 @@
 {
-  "generated": "2026-06-15",
-  "today": "2026-06-15",
+  "generated": "2026-06-16",
+  "today": "2026-06-16",
   "events": [
-    {
-      "date": "2026-06-15",
-      "category": "conference",
-      "title": "Databricks Data + AI Summit 2026 (旧金山)",
-      "importance": 2,
-      "end_date": "2026-06-18",
-      "time_et": "",
-      "tickers": [
-        "SNOW",
-        "MDB",
-        "DDOG"
-      ],
-      "watch": "数据+AI 平台趋势;Databricks(未上市)动向,影响 SNOW/MDB 等情绪",
-      "source_url": "https://www.databricks.com/dataaisummit",
-      "meta": {}
-    },
     {
       "date": "2026-06-17",
       "category": "fed",
@@ -70,8 +54,8 @@
         "ticker": "MU",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 19.65635,
-        "revenue_estimate": 34286563820.0,
+        "eps_estimate": 19.68667,
+        "revenue_estimate": 34473280580.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-02-28",
         "last_eps_actual": 12.2,
@@ -167,7 +151,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 3.74091,
-        "revenue_estimate": 1261639796270.0,
+        "revenue_estimate": 1261926477770.0,
         "revenue_currency": "TWD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 3.49,
@@ -226,8 +210,8 @@
         "ticker": "IBM",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 3.01807,
-        "revenue_estimate": 17852597370.0,
+        "eps_estimate": 3.01852,
+        "revenue_estimate": 17852759700.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.91,
@@ -977,6 +961,30 @@
       "watch": "美联储最看重的通胀指标,影响降息时点",
       "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
       "meta": {}
+    },
+    {
+      "date": "2026-07-31",
+      "category": "earnings",
+      "title": "nVent Electric 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NVT"
+      ],
+      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "source_url": "https://finance.yahoo.com/quote/NVT",
+      "meta": {
+        "ticker": "NVT",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 1.15895,
+        "revenue_estimate": 1254631980.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.09,
+        "last_eps_estimate": 0.94199
+      }
     }
   ]
 }
