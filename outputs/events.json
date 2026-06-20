@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20",
-  "today": "2026-06-20",
+  "generated": "2026-06-21",
+  "today": "2026-06-21",
   "events": [
     {
       "date": "2026-06-24",
@@ -1284,6 +1284,102 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.44,
         "last_eps_estimate": 0.26241
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
+      "title": "SiTime 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SITM"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/SITM",
+      "meta": {
+        "ticker": "SITM",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.95987,
+        "revenue_estimate": 146460140.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.44,
+        "last_eps_estimate": 1.15716
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
+      "title": "HubSpot 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "HUBS"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/HUBS",
+      "meta": {
+        "ticker": "HUBS",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 3.01564,
+        "revenue_estimate": 898121550.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.72,
+        "last_eps_estimate": 2.46745
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
+      "title": "Dynatrace 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DT"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/DT",
+      "meta": {
+        "ticker": "DT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.44407,
+        "revenue_estimate": 549402880.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.41,
+        "last_eps_estimate": 0.38916
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
+      "title": "Fortinet 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "FTNT"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/FTNT",
+      "meta": {
+        "ticker": "FTNT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.74485,
+        "revenue_estimate": 1886135790.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.82,
+        "last_eps_estimate": 0.61828
       }
     }
   ]
