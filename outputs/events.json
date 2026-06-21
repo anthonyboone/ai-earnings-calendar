@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21",
-  "today": "2026-06-21",
+  "generated": "2026-06-22",
+  "today": "2026-06-22",
   "events": [
     {
       "date": "2026-06-24",
@@ -91,7 +91,7 @@
         "subsector": "Semiconductor equipment",
         "date_confirmed": true,
         "eps_estimate": 6.84519,
-        "revenue_estimate": 8891151530.0,
+        "revenue_estimate": 8891368810.0,
         "revenue_currency": "EUR",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 7.15,
@@ -907,7 +907,7 @@
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
         "eps_estimate": 1.89429,
-        "revenue_estimate": 108994233640.0,
+        "revenue_estimate": 109010939580.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.01,
@@ -1380,6 +1380,318 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.82,
         "last_eps_estimate": 0.61828
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Power Integrations 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "POWI"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/POWI",
+      "meta": {
+        "ticker": "POWI",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.31949,
+        "revenue_estimate": 117435110.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.25,
+        "last_eps_estimate": 0.23617
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "MACOM 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "MTSI"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/MTSI",
+      "meta": {
+        "ticker": "MTSI",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.34561,
+        "revenue_estimate": 335300890.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.09,
+        "last_eps_estimate": 1.07282
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Kulicke & Soffa 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "KLIC"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/KLIC",
+      "meta": {
+        "ticker": "KLIC",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 1.00667,
+        "revenue_estimate": 311666670.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.79,
+        "last_eps_estimate": 0.67
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Applied Optoelectronics 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AAOI"
+      ],
+      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "source_url": "https://finance.yahoo.com/quote/AAOI",
+      "meta": {
+        "ticker": "AAOI",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 0.015,
+        "revenue_estimate": 190478400.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.07,
+        "last_eps_estimate": -0.04833
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Nebius Group 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NBIS"
+      ],
+      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "source_url": "https://finance.yahoo.com/quote/NBIS",
+      "meta": {
+        "ticker": "NBIS",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -0.49,
+        "revenue_estimate": 589232490.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.11,
+        "last_eps_estimate": -0.7125
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "TeraWulf 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WULF"
+      ],
+      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "source_url": "https://finance.yahoo.com/quote/WULF",
+      "meta": {
+        "ticker": "WULF",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -0.19,
+        "revenue_estimate": 48919770.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.1976,
+        "last_eps_estimate": -0.19
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Datadog 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DDOG"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/DDOG",
+      "meta": {
+        "ticker": "DDOG",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.58281,
+        "revenue_estimate": 1078165960.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.6,
+        "last_eps_estimate": 0.50738
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "SoundHound AI 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SOUN"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/SOUN",
+      "meta": {
+        "ticker": "SOUN",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": -0.04,
+        "revenue_estimate": 52465890.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.06,
+        "last_eps_estimate": -0.03333
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "AppLovin 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "APP"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/APP",
+      "meta": {
+        "ticker": "APP",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 4.09241,
+        "revenue_estimate": 1941133440.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 3.56,
+        "last_eps_estimate": 3.44326
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "JFrog 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "FROG"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/FROG",
+      "meta": {
+        "ticker": "FROG",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.24069,
+        "revenue_estimate": 155527710.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.27,
+        "last_eps_estimate": 0.21334
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Vistra 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "VST"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/VST",
+      "meta": {
+        "ticker": "VST",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 1.92,
+        "revenue_estimate": 5725203620.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.87,
+        "last_eps_estimate": 1.8715
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "NRG Energy 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NRG"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/NRG",
+      "meta": {
+        "ticker": "NRG",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 1.7002,
+        "revenue_estimate": 7506558770.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.49,
+        "last_eps_estimate": 1.73331
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "NuScale Power 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SMR"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/SMR",
+      "meta": {
+        "ticker": "SMR",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": -0.12502,
+        "revenue_estimate": 14709990.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.14,
+        "last_eps_estimate": -0.138
       }
     }
   ]
