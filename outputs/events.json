@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22",
-  "today": "2026-06-22",
+  "generated": "2026-06-23",
+  "today": "2026-06-23",
   "events": [
     {
       "date": "2026-06-24",
@@ -1693,6 +1693,18 @@
         "last_eps_actual": -0.14,
         "last_eps_estimate": -0.138
       }
+    },
+    {
+      "date": "2026-08-07",
+      "category": "macro",
+      "title": "非农就业报告 (7月)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "就业强弱直接影响美联储降息路径",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "meta": {}
     }
   ]
 }
