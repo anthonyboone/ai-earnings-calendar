@@ -1601,6 +1601,30 @@
     {
       "date": "2026-08-06",
       "category": "earnings",
+      "title": "Constellation Energy 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CEG"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/CEG",
+      "meta": {
+        "ticker": "CEG",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 2.53892,
+        "revenue_estimate": 8085326970.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.74,
+        "last_eps_estimate": 2.6021
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
       "title": "Vistra 财报",
       "importance": 2,
       "end_date": "",
