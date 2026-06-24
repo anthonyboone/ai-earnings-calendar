@@ -1,31 +1,7 @@
 {
-  "generated": "2026-06-24",
-  "today": "2026-06-24",
+  "generated": "2026-06-25",
+  "today": "2026-06-25",
   "events": [
-    {
-      "date": "2026-06-24",
-      "category": "earnings",
-      "title": "Micron Technology 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "MU"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/MU",
-      "meta": {
-        "ticker": "MU",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 20.28427,
-        "revenue_estimate": 35251836320.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-02-28",
-        "last_eps_actual": 12.2,
-        "last_eps_estimate": 9.15866
-      }
-    },
     {
       "date": "2026-06-25",
       "category": "macro",
