@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27",
-  "today": "2026-06-27",
+  "generated": "2026-06-28",
+  "today": "2026-06-28",
   "events": [
     {
       "date": "2026-07-02",
@@ -198,7 +198,7 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45489,
+        "eps_estimate": 0.45729,
         "revenue_estimate": 24646859340.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
@@ -1158,8 +1158,8 @@
         "ticker": "ETN",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 3.0743,
-        "revenue_estimate": 8112777190.0,
+        "eps_estimate": 3.07548,
+        "revenue_estimate": 8155293490.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.81,
@@ -1705,6 +1705,90 @@
         "last_eps_actual": NaN,
         "last_eps_estimate": -0.18373
       }
+    },
+    {
+      "date": "2026-08-12",
+      "category": "earnings",
+      "title": "Camtek 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CAMT"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/CAMT",
+      "meta": {
+        "ticker": "CAMT",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.75967,
+        "revenue_estimate": 130187330.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.7,
+        "last_eps_estimate": 0.68467
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "category": "earnings",
+      "title": "Cisco Systems 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CSCO"
+      ],
+      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "source_url": "https://finance.yahoo.com/quote/CSCO",
+      "meta": {
+        "ticker": "CSCO",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 1.17009,
+        "revenue_estimate": 16827317250.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 1.06,
+        "last_eps_estimate": 1.03625
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "category": "earnings",
+      "title": "Lumentum 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "LITE"
+      ],
+      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "source_url": "https://finance.yahoo.com/quote/LITE",
+      "meta": {
+        "ticker": "LITE",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 2.96184,
+        "revenue_estimate": 987375490.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.37,
+        "last_eps_estimate": 2.26526
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "category": "macro",
+      "title": "CPI 通胀数据 (7月)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "通胀超预期 → 成长股承压;降温 → 风险偏好回升",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "meta": {}
     }
   ]
 }
