@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-01",
-  "today": "2026-07-01",
+  "generated": "2026-07-02",
+  "today": "2026-07-02",
   "events": [
     {
       "date": "2026-07-02",
@@ -1001,30 +1001,6 @@
     {
       "date": "2026-08-04",
       "category": "earnings",
-      "title": "GlobalFoundries 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "GFS"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/GFS",
-      "meta": {
-        "ticker": "GFS",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.43201,
-        "revenue_estimate": 1763499420.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.4,
-        "last_eps_estimate": 0.35101
-      }
-    },
-    {
-      "date": "2026-08-04",
-      "category": "earnings",
       "title": "Silicon Labs 财报",
       "importance": 3,
       "end_date": "",
@@ -1241,6 +1217,30 @@
     {
       "date": "2026-08-05",
       "category": "earnings",
+      "title": "GlobalFoundries 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "GFS"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/GFS",
+      "meta": {
+        "ticker": "GFS",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.43201,
+        "revenue_estimate": 1763499420.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.4,
+        "last_eps_estimate": 0.35101
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
       "title": "SiTime 财报",
       "importance": 3,
       "end_date": "",
@@ -1332,6 +1332,30 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.82,
         "last_eps_estimate": 0.61828
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
+      "title": "NuScale Power 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SMR"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/SMR",
+      "meta": {
+        "ticker": "SMR",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": -0.12502,
+        "revenue_estimate": 14709990.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.14,
+        "last_eps_estimate": -0.138
       }
     },
     {
@@ -1644,30 +1668,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.49,
         "last_eps_estimate": 1.73331
-      }
-    },
-    {
-      "date": "2026-08-06",
-      "category": "earnings",
-      "title": "NuScale Power 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "SMR"
-      ],
-      "watch": "数据中心电力需求、PPA 长约",
-      "source_url": "https://finance.yahoo.com/quote/SMR",
-      "meta": {
-        "ticker": "SMR",
-        "subsector": "Power / nuclear (AI data centers)",
-        "date_confirmed": true,
-        "eps_estimate": -0.12502,
-        "revenue_estimate": 14709990.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": -0.14,
-        "last_eps_estimate": -0.138
       }
     },
     {
