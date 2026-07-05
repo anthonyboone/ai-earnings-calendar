@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05",
-  "today": "2026-07-05",
+  "generated": "2026-07-06",
+  "today": "2026-07-06",
   "events": [
     {
       "date": "2026-07-14",
@@ -1848,6 +1848,54 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 0.85,
         "last_eps_estimate": 0.7972
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "category": "earnings",
+      "title": "Workday 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WDAY"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/WDAY",
+      "meta": {
+        "ticker": "WDAY",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 2.60814,
+        "revenue_estimate": 2635178690.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 2.66,
+        "last_eps_estimate": 2.51697
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "category": "earnings",
+      "title": "Intuit 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "INTU"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/INTU",
+      "meta": {
+        "ticker": "INTU",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 3.58853,
+        "revenue_estimate": 4269236600.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 12.8,
+        "last_eps_estimate": 12.56873
       }
     }
   ]
