@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-07",
-  "today": "2026-07-07",
+  "generated": "2026-07-08",
+  "today": "2026-07-08",
   "events": [
+    {
+      "date": "2026-07-14",
+      "category": "earnings",
+      "title": "Aehr Test Systems 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AEHR"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/AEHR",
+      "meta": {
+        "ticker": "AEHR",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": -0.0075,
+        "revenue_estimate": 18685500.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-02-28",
+        "last_eps_actual": -0.05,
+        "last_eps_estimate": -0.07
+      }
+    },
     {
       "date": "2026-07-14",
       "category": "macro",
@@ -1227,6 +1251,30 @@
       }
     },
     {
+      "date": "2026-08-04",
+      "category": "earnings",
+      "title": "NRG Energy 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NRG"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/NRG",
+      "meta": {
+        "ticker": "NRG",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 1.72628,
+        "revenue_estimate": 7499660280.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.49,
+        "last_eps_estimate": 1.73331
+      }
+    },
+    {
       "date": "2026-08-05",
       "category": "earnings",
       "title": "GlobalFoundries 财报",
@@ -1632,30 +1680,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.74,
         "last_eps_estimate": 2.6021
-      }
-    },
-    {
-      "date": "2026-08-06",
-      "category": "earnings",
-      "title": "NRG Energy 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "NRG"
-      ],
-      "watch": "数据中心电力需求、PPA 长约",
-      "source_url": "https://finance.yahoo.com/quote/NRG",
-      "meta": {
-        "ticker": "NRG",
-        "subsector": "Power / nuclear (AI data centers)",
-        "date_confirmed": true,
-        "eps_estimate": 1.72628,
-        "revenue_estimate": 7499660280.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 1.49,
-        "last_eps_estimate": 1.73331
       }
     },
     {
