@@ -125,6 +125,30 @@
     {
       "date": "2026-07-22",
       "category": "earnings",
+      "title": "Alphabet (Google) 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "GOOGL"
+      ],
+      "watch": "云增速、AI capex 资本开支、AI 变现",
+      "source_url": "https://finance.yahoo.com/quote/GOOGL",
+      "meta": {
+        "ticker": "GOOGL",
+        "subsector": "Hyperscale / cloud",
+        "date_confirmed": true,
+        "eps_estimate": 2.90079,
+        "revenue_estimate": 116841971700.0,
+        "revenue_currency": "",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 5.11,
+        "last_eps_estimate": 2.66714
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "category": "earnings",
       "title": "IBM 财报",
       "importance": 3,
       "end_date": "",
@@ -332,7 +356,7 @@
         "date_confirmed": true,
         "eps_estimate": 0.99805,
         "revenue_estimate": 3601641580.0,
-        "revenue_currency": "USD",
+        "revenue_currency": "",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.94,
         "last_eps_estimate": 0.91703
@@ -980,10 +1004,10 @@
         "date_confirmed": true,
         "eps_estimate": 1.60509,
         "revenue_estimate": 11284950390.0,
-        "revenue_currency": "",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 1.37,
-        "last_eps_estimate": 1.29468
+        "revenue_currency": "USD",
+        "last_quarter": "",
+        "last_eps_actual": null,
+        "last_eps_estimate": null
       }
     },
     {
@@ -1100,7 +1124,7 @@
         "date_confirmed": true,
         "eps_estimate": 0.88335,
         "revenue_estimate": 2826330660.0,
-        "revenue_currency": "",
+        "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.87,
         "last_eps_estimate": 0.80761
@@ -2024,7 +2048,7 @@
         "date_confirmed": true,
         "eps_estimate": 1.61073,
         "revenue_estimate": 734495570.0,
-        "revenue_currency": "",
+        "revenue_currency": "USD",
         "last_quarter": "2026-04-30",
         "last_eps_actual": 1.32,
         "last_eps_estimate": 1.18348
