@@ -162,8 +162,8 @@
         "ticker": "IBM",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 3.02352,
-        "revenue_estimate": 17853536440.0,
+        "eps_estimate": 3.02228,
+        "revenue_estimate": 17853504880.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.91,
@@ -665,30 +665,6 @@
     {
       "date": "2026-07-29",
       "category": "earnings",
-      "title": "Western Digital 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "WDC"
-      ],
-      "watch": "HBM/存储价格与供给、AI 拉动",
-      "source_url": "https://finance.yahoo.com/quote/WDC",
-      "meta": {
-        "ticker": "WDC",
-        "subsector": "Memory / storage (AI)",
-        "date_confirmed": true,
-        "eps_estimate": 3.29048,
-        "revenue_estimate": 3693622840.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 2.72,
-        "last_eps_estimate": 2.3949
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "category": "earnings",
       "title": "Fortinet 财报",
       "importance": 2,
       "end_date": "",
@@ -954,8 +930,8 @@
         "ticker": "LSCC",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 0.44389,
-        "revenue_estimate": 185494620.0,
+        "eps_estimate": 0.44425,
+        "revenue_estimate": 185539590.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.41,
@@ -1325,6 +1301,30 @@
     {
       "date": "2026-08-05",
       "category": "earnings",
+      "title": "Western Digital 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WDC"
+      ],
+      "watch": "HBM/存储价格与供给、AI 拉动",
+      "source_url": "https://finance.yahoo.com/quote/WDC",
+      "meta": {
+        "ticker": "WDC",
+        "subsector": "Memory / storage (AI)",
+        "date_confirmed": true,
+        "eps_estimate": 3.29048,
+        "revenue_estimate": 3693622840.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.72,
+        "last_eps_estimate": 2.3949
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
       "title": "HubSpot 财报",
       "importance": 2,
       "end_date": "",
@@ -1458,8 +1458,8 @@
         "ticker": "MTSI",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 1.34561,
-        "revenue_estimate": 335300890.0,
+        "eps_estimate": 1.34601,
+        "revenue_estimate": 335324040.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.09,
