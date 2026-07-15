@@ -1,31 +1,7 @@
 {
-  "generated": "2026-07-15",
-  "today": "2026-07-15",
+  "generated": "2026-07-16",
+  "today": "2026-07-16",
   "events": [
-    {
-      "date": "2026-07-15",
-      "category": "earnings",
-      "title": "ASML 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ASML"
-      ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
-      "source_url": "https://finance.yahoo.com/quote/ASML",
-      "meta": {
-        "ticker": "ASML",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 6.8954,
-        "revenue_estimate": 8879727770.0,
-        "revenue_currency": "EUR",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 7.15,
-        "last_eps_estimate": 6.621
-      }
-    },
     {
       "date": "2026-07-16",
       "category": "earnings",
@@ -329,6 +305,30 @@
     {
       "date": "2026-07-28",
       "category": "earnings",
+      "title": "Teradyne 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TER"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/TER",
+      "meta": {
+        "ticker": "TER",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 2.05422,
+        "revenue_estimate": 1217954730.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 2.56,
+        "last_eps_estimate": 2.11685
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "category": "earnings",
       "title": "Seagate 财报",
       "importance": 2,
       "end_date": "",
@@ -444,30 +444,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.47,
         "last_eps_estimate": 1.3628
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "category": "earnings",
-      "title": "Teradyne 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "TER"
-      ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
-      "source_url": "https://finance.yahoo.com/quote/TER",
-      "meta": {
-        "ticker": "TER",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 2.05422,
-        "revenue_estimate": 1217954730.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 2.56,
-        "last_eps_estimate": 2.11685
       }
     },
     {
@@ -725,30 +701,6 @@
     {
       "date": "2026-07-30",
       "category": "earnings",
-      "title": "Entegris 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ENTG"
-      ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
-      "source_url": "https://finance.yahoo.com/quote/ENTG",
-      "meta": {
-        "ticker": "ENTG",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 0.81788,
-        "revenue_estimate": 834141750.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.86,
-        "last_eps_estimate": 0.74506
-      }
-    },
-    {
-      "date": "2026-07-30",
-      "category": "earnings",
       "title": "Amazon 财报",
       "importance": 3,
       "end_date": "",
@@ -768,30 +720,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.78,
         "last_eps_estimate": 1.65303
-      }
-    },
-    {
-      "date": "2026-07-30",
-      "category": "earnings",
-      "title": "Cloudflare 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "NET"
-      ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
-      "source_url": "https://finance.yahoo.com/quote/NET",
-      "meta": {
-        "ticker": "NET",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.26976,
-        "revenue_estimate": 666362910.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.25,
-        "last_eps_estimate": 0.23357
       }
     },
     {
@@ -1044,6 +972,30 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.53,
         "last_eps_estimate": 0.50354
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "category": "earnings",
+      "title": "Entegris 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ENTG"
+      ],
+      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "source_url": "https://finance.yahoo.com/quote/ENTG",
+      "meta": {
+        "ticker": "ENTG",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.81788,
+        "revenue_estimate": 834141750.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.86,
+        "last_eps_estimate": 0.74506
       }
     },
     {
@@ -1361,6 +1313,30 @@
     {
       "date": "2026-08-05",
       "category": "earnings",
+      "title": "Talen Energy 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TLN"
+      ],
+      "watch": "数据中心电力需求、PPA 长约",
+      "source_url": "https://finance.yahoo.com/quote/TLN",
+      "meta": {
+        "ticker": "TLN",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 3.425,
+        "revenue_estimate": 804020700.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 4.3783,
+        "last_eps_estimate": 4.255
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
       "title": "NuScale Power 财报",
       "importance": 2,
       "end_date": "",
@@ -1553,6 +1529,30 @@
     {
       "date": "2026-08-06",
       "category": "earnings",
+      "title": "Cloudflare 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NET"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/NET",
+      "meta": {
+        "ticker": "NET",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.26976,
+        "revenue_estimate": 666362910.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.25,
+        "last_eps_estimate": 0.23357
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
       "title": "Datadog 财报",
       "importance": 2,
       "end_date": "",
@@ -1596,6 +1596,30 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": -0.06,
         "last_eps_estimate": -0.03333
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "category": "earnings",
+      "title": "Atlassian 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TEAM"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/TEAM",
+      "meta": {
+        "ticker": "TEAM",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 1.50141,
+        "revenue_estimate": 1663108350.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 1.75,
+        "last_eps_estimate": 1.33598
       }
     },
     {
