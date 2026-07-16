@@ -257,6 +257,30 @@
     {
       "date": "2026-07-27",
       "category": "earnings",
+      "title": "Applied Digital 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "APLD"
+      ],
+      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "source_url": "https://finance.yahoo.com/quote/APLD",
+      "meta": {
+        "ticker": "APLD",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -0.4,
+        "revenue_estimate": 95316140.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-02-28",
+        "last_eps_actual": 0.09,
+        "last_eps_estimate": -0.21
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "category": "earnings",
       "title": "Cadence Design Systems 财报",
       "importance": 2,
       "end_date": "",
@@ -516,30 +540,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 10.44,
         "last_eps_estimate": 6.65872
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "category": "earnings",
-      "title": "Applied Digital 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "APLD"
-      ],
-      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
-      "source_url": "https://finance.yahoo.com/quote/APLD",
-      "meta": {
-        "ticker": "APLD",
-        "subsector": "AI cloud / GPU",
-        "date_confirmed": true,
-        "eps_estimate": -0.4,
-        "revenue_estimate": 95316140.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-02-28",
-        "last_eps_actual": 0.09,
-        "last_eps_estimate": -0.21
       }
     },
     {
@@ -1217,6 +1217,30 @@
     {
       "date": "2026-08-05",
       "category": "earnings",
+      "title": "Power Integrations 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "POWI"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/POWI",
+      "meta": {
+        "ticker": "POWI",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.31949,
+        "revenue_estimate": 117435110.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.25,
+        "last_eps_estimate": 0.23617
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "category": "earnings",
       "title": "Western Digital 财报",
       "importance": 2,
       "end_date": "",
@@ -1356,30 +1380,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": -0.14,
         "last_eps_estimate": -0.138
-      }
-    },
-    {
-      "date": "2026-08-06",
-      "category": "earnings",
-      "title": "Power Integrations 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "POWI"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/POWI",
-      "meta": {
-        "ticker": "POWI",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.31949,
-        "revenue_estimate": 117435110.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.25,
-        "last_eps_estimate": 0.23617
       }
     },
     {
