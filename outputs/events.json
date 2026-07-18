@@ -309,33 +309,9 @@
         "eps_estimate": 2.05422,
         "revenue_estimate": 1217954730.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 2.56,
-        "last_eps_estimate": 2.11685
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "category": "earnings",
-      "title": "Seagate 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "STX"
-      ],
-      "watch": "HBM/存储价格与供给、AI 拉动",
-      "source_url": "https://finance.yahoo.com/quote/STX",
-      "meta": {
-        "ticker": "STX",
-        "subsector": "Memory / storage (AI)",
-        "date_confirmed": true,
-        "eps_estimate": 5.0934,
-        "revenue_estimate": 3490160070.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 4.1,
-        "last_eps_estimate": 3.51146
+        "last_quarter": "",
+        "last_eps_actual": null,
+        "last_eps_estimate": null
       }
     },
     {
@@ -560,7 +536,7 @@
         "date_confirmed": true,
         "eps_estimate": 2.00336,
         "revenue_estimate": 1178849810.0,
-        "revenue_currency": "USD",
+        "revenue_currency": "",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 1.8,
         "last_eps_estimate": 1.32852
@@ -725,30 +701,6 @@
     {
       "date": "2026-07-31",
       "category": "earnings",
-      "title": "Eaton 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ETN"
-      ],
-      "watch": "AI 服务器订单与收入、电力/散热需求",
-      "source_url": "https://finance.yahoo.com/quote/ETN",
-      "meta": {
-        "ticker": "ETN",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 3.07642,
-        "revenue_estimate": 8155060710.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 2.81,
-        "last_eps_estimate": 2.73079
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "category": "earnings",
       "title": "nVent Electric 财报",
       "importance": 2,
       "end_date": "",
@@ -864,30 +816,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.33,
         "last_eps_estimate": 0.27946
-      }
-    },
-    {
-      "date": "2026-08-04",
-      "category": "earnings",
-      "title": "AMD 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AMD"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/AMD",
-      "meta": {
-        "ticker": "AMD",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 1.60678,
-        "revenue_estimate": 11297769900.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 1.37,
-        "last_eps_estimate": 1.29468
       }
     },
     {
@@ -1125,9 +1053,9 @@
         "eps_estimate": 1.65357,
         "revenue_estimate": 7461716900.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 1.49,
-        "last_eps_estimate": 1.73331
+        "last_quarter": "",
+        "last_eps_actual": null,
+        "last_eps_estimate": null
       }
     },
     {
@@ -1200,30 +1128,6 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.25,
         "last_eps_estimate": 0.23617
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "category": "earnings",
-      "title": "Western Digital 财报",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "WDC"
-      ],
-      "watch": "HBM/存储价格与供给、AI 拉动",
-      "source_url": "https://finance.yahoo.com/quote/WDC",
-      "meta": {
-        "ticker": "WDC",
-        "subsector": "Memory / storage (AI)",
-        "date_confirmed": true,
-        "eps_estimate": 3.29629,
-        "revenue_estimate": 3698744260.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 2.72,
-        "last_eps_estimate": 2.3949
       }
     },
     {
@@ -1712,7 +1616,7 @@
         "date_confirmed": true,
         "eps_estimate": 1.92,
         "revenue_estimate": 5748463210.0,
-        "revenue_currency": "USD",
+        "revenue_currency": "",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.87,
         "last_eps_estimate": 1.8715
