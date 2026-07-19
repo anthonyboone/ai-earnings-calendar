@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19",
-  "today": "2026-07-19",
+  "generated": "2026-07-20",
+  "today": "2026-07-20",
   "events": [
     {
       "date": "2026-07-21",
@@ -2268,6 +2268,102 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 0.23,
         "last_eps_estimate": 0.20478
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "Broadcom 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AVGO"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "meta": {
+        "ticker": "AVGO",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 3.23823,
+        "revenue_estimate": 29435187950.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 2.44,
+        "last_eps_estimate": 2.39835
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "Dell Technologies 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DELL"
+      ],
+      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "source_url": "https://finance.yahoo.com/quote/DELL",
+      "meta": {
+        "ticker": "DELL",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 4.89516,
+        "revenue_estimate": 44394929400.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 4.86,
+        "last_eps_estimate": 2.96358
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "Samsara 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "IOT"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/IOT",
+      "meta": {
+        "ticker": "IOT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.1561,
+        "revenue_estimate": 483257930.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 0.17,
+        "last_eps_estimate": 0.13032
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "Guidewire 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "GWRE"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/GWRE",
+      "meta": {
+        "ticker": "GWRE",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.9366,
+        "revenue_estimate": 403198720.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 0.82,
+        "last_eps_estimate": 0.74279
       }
     }
   ]
