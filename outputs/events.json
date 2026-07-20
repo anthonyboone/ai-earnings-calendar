@@ -389,30 +389,6 @@
     {
       "date": "2026-07-29",
       "category": "earnings",
-      "title": "FormFactor 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "FORM"
-      ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
-      "source_url": "https://finance.yahoo.com/quote/FORM",
-      "meta": {
-        "ticker": "FORM",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 0.61,
-        "revenue_estimate": 239999780.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.56,
-        "last_eps_estimate": 0.43889
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "category": "earnings",
       "title": "Microsoft 财报",
       "importance": 3,
       "end_date": "",
@@ -725,30 +701,6 @@
     {
       "date": "2026-08-03",
       "category": "earnings",
-      "title": "Ichor 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ICHR"
-      ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
-      "source_url": "https://finance.yahoo.com/quote/ICHR",
-      "meta": {
-        "ticker": "ICHR",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 0.30714,
-        "revenue_estimate": 300165710.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.15,
-        "last_eps_estimate": 0.13143
-      }
-    },
-    {
-      "date": "2026-08-03",
-      "category": "earnings",
       "title": "Ultra Clean Holdings 财报",
       "importance": 3,
       "end_date": "",
@@ -885,9 +837,9 @@
         "eps_estimate": 0.894,
         "revenue_estimate": 205037920.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.72,
-        "last_eps_estimate": 0.71
+        "last_quarter": "",
+        "last_eps_actual": null,
+        "last_eps_estimate": null
       }
     },
     {
@@ -1568,7 +1520,7 @@
         "date_confirmed": true,
         "eps_estimate": 1.92,
         "revenue_estimate": 5748463210.0,
-        "revenue_currency": "USD",
+        "revenue_currency": "",
         "last_quarter": "2026-03-31",
         "last_eps_actual": 2.87,
         "last_eps_estimate": 1.8715
