@@ -1,31 +1,7 @@
 {
-  "generated": "2026-07-23",
-  "today": "2026-07-23",
+  "generated": "2026-07-24",
+  "today": "2026-07-24",
   "events": [
-    {
-      "date": "2026-07-23",
-      "category": "earnings",
-      "title": "Intel 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "INTC"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/INTC",
-      "meta": {
-        "ticker": "INTC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.2175,
-        "revenue_estimate": 14446089180.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.29,
-        "last_eps_estimate": 0.01313
-      }
-    },
     {
       "date": "2026-07-27",
       "category": "earnings",
@@ -653,30 +629,6 @@
     {
       "date": "2026-08-03",
       "category": "earnings",
-      "title": "Lattice Semiconductor 财报",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "LSCC"
-      ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-      "source_url": "https://finance.yahoo.com/quote/LSCC",
-      "meta": {
-        "ticker": "LSCC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.44516,
-        "revenue_estimate": 185585040.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 0.41,
-        "last_eps_estimate": 0.36977
-      }
-    },
-    {
-      "date": "2026-08-03",
-      "category": "earnings",
       "title": "Ichor 财报",
       "importance": 3,
       "end_date": "",
@@ -816,6 +768,30 @@
         "last_quarter": "2026-03-31",
         "last_eps_actual": 0.61,
         "last_eps_estimate": 0.53761
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "category": "earnings",
+      "title": "Lattice Semiconductor 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "LSCC"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/LSCC",
+      "meta": {
+        "ticker": "LSCC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.44516,
+        "revenue_estimate": 185585040.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 0.41,
+        "last_eps_estimate": 0.36977
       }
     },
     {
@@ -1720,6 +1696,30 @@
     },
     {
       "date": "2026-08-12",
+      "category": "earnings",
+      "title": "CoreWeave 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRWV"
+      ],
+      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "source_url": "https://finance.yahoo.com/quote/CRWV",
+      "meta": {
+        "ticker": "CRWV",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -1.16371,
+        "revenue_estimate": 2557435580.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -1.4,
+        "last_eps_estimate": -1.2042
+      }
+    },
+    {
+      "date": "2026-08-12",
       "category": "macro",
       "title": "CPI 通胀数据 (7月)",
       "importance": 3,
@@ -1752,6 +1752,30 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 2.86,
         "last_eps_estimate": 2.68545
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "category": "earnings",
+      "title": "Fabrinet 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "FN"
+      ],
+      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "source_url": "https://finance.yahoo.com/quote/FN",
+      "meta": {
+        "ticker": "FN",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 3.81462,
+        "revenue_estimate": 1275092500.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": 3.72,
+        "last_eps_estimate": 3.56263
       }
     },
     {
@@ -2153,6 +2177,54 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
+      "title": "Credo Technology 财报",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRDO"
+      ],
+      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "source_url": "https://finance.yahoo.com/quote/CRDO",
+      "meta": {
+        "ticker": "CRDO",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.1632,
+        "revenue_estimate": 470378120.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 1.16,
+        "last_eps_estimate": 1.03414
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "category": "earnings",
+      "title": "NetApp 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NTAP"
+      ],
+      "watch": "HBM/存储价格与供给、AI 拉动",
+      "source_url": "https://finance.yahoo.com/quote/NTAP",
+      "meta": {
+        "ticker": "NTAP",
+        "subsector": "Memory / storage (AI)",
+        "date_confirmed": true,
+        "eps_estimate": 2.11059,
+        "revenue_estimate": 1830924410.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 2.43,
+        "last_eps_estimate": 2.26646
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "category": "earnings",
       "title": "Salesforce 财报",
       "importance": 2,
       "end_date": "",
@@ -2196,6 +2268,30 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 0.23,
         "last_eps_estimate": 0.20478
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "category": "earnings",
+      "title": "Zscaler 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ZS"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/ZS",
+      "meta": {
+        "ticker": "ZS",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 1.09001,
+        "revenue_estimate": 877605040.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 1.08,
+        "last_eps_estimate": 1.0083
       }
     },
     {
@@ -2244,6 +2340,54 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 4.86,
         "last_eps_estimate": 2.96358
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "Hewlett Packard Enterprise 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "HPE"
+      ],
+      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "source_url": "https://finance.yahoo.com/quote/HPE",
+      "meta": {
+        "ticker": "HPE",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 0.92098,
+        "revenue_estimate": 11899048180.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 0.79,
+        "last_eps_estimate": 0.53369
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "category": "earnings",
+      "title": "UiPath 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "PATH"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/PATH",
+      "meta": {
+        "ticker": "PATH",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.14738,
+        "revenue_estimate": 397848470.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 0.15,
+        "last_eps_estimate": 0.15874
       }
     },
     {
