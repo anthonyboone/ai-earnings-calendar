@@ -545,6 +545,30 @@
     {
       "date": "2026-07-30",
       "category": "earnings",
+      "title": "BigBear.ai 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "BBAI"
+      ],
+      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "source_url": "https://finance.yahoo.com/quote/BBAI",
+      "meta": {
+        "ticker": "BBAI",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": null,
+        "revenue_estimate": 36369000.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-03-31",
+        "last_eps_actual": -0.12,
+        "last_eps_estimate": -0.08
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "category": "earnings",
       "title": "Apple 财报",
       "importance": 2,
       "end_date": "",
@@ -1884,6 +1908,30 @@
         "last_quarter": "2026-04-30",
         "last_eps_actual": 1.87,
         "last_eps_estimate": 1.77191
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "category": "earnings",
+      "title": "Synopsys 财报",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SNPS"
+      ],
+      "watch": "设计活动、AI 芯片设计需求",
+      "source_url": "https://finance.yahoo.com/quote/SNPS",
+      "meta": {
+        "ticker": "SNPS",
+        "subsector": "EDA / chip design",
+        "date_confirmed": true,
+        "eps_estimate": 3.67334,
+        "revenue_estimate": 2438802960.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-04-30",
+        "last_eps_actual": 3.35,
+        "last_eps_estimate": 3.16172
       }
     },
     {
