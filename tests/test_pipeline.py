@@ -14,8 +14,8 @@ def test_run_merges_and_windows(monkeypatch, tmp_path):
         outputs_dir=tmp_path / "o", site_dir=tmp_path / "s", today=today)
 
     tw_titles = " ".join(e.title for e in this_week)
-    assert "GTC" in tw_titles          # 黄仁勋 GTC Taipei 6/1 (+3d)
-    assert "非农" in tw_titles          # jobs report 6/5 (+7d, edge of this week)
+    assert "GTC" in tw_titles          # Jensen Huang GTC Taipei 6/1 (+3d)
+    assert "Nonfarm" in tw_titles          # jobs report 6/5 (+7d, edge of this week)
 
     up_cats = {e.category for e in upcoming}
     assert "fed" in up_cats            # FOMC 6/16-17

@@ -10,19 +10,19 @@
 events:
   - date: 2026-06-01
     category: conference
-    title: "NVIDIA GTC Taipei — 黄仁勋 Keynote"
+    title: "NVIDIA GTC Taipei - Jensen Huang Keynote"
     importance: 3
     tickers: [NVDA, TSM, AVGO, AMD]
-    watch: "老黄给 AI 板块定调;AI 算力、机器人、下一代 GPU/网络路线图"
+    watch: "Jensen sets the tone for AI sector; AI compute, robotics, next-gen GPU/networking roadmap"
     source_url: "https://www.nvidia.com/en-tw/gtc/taipei/computex/"
 
   - date: 2026-06-02
     end_date: 2026-06-05
     category: conference
-    title: "Computex 2026 (台北)"
+    title: "Computex 2026 (Taipei)"
     importance: 2
     tickers: [NVDA, AMD, TSM, SMCI, DELL, ASX]
-    watch: "AI 服务器、散热、CPO/光互连、供应链订单信号"
+    watch: "AI servers, cooling, CPO/optical interconnects, supply chain order signals"
     source_url: "https://www.computextaipei.com.tw/en/index.html"
 
   - date: 2026-06-08
@@ -32,7 +32,7 @@ events:
     title: "Apple WWDC 2026 (Keynote 6/8)"
     importance: 2
     tickers: [AAPL]
-    watch: "Apple Intelligence / 端侧 AI / Siri 进展;输了继续被嘲讽"
+    watch: "Apple Intelligence / edge AI / Siri updates"
     source_url: "https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/"
 
   # --- more AI conferences (dates verified) ---
@@ -42,25 +42,25 @@ events:
     title: "Cisco Live 2026 (Las Vegas)"
     importance: 2
     tickers: [CSCO]
-    watch: "AI 数据中心网络、安全、企业 AI 基础设施"
+    watch: "AI data center networking, security, enterprise AI infra"
     source_url: "https://www.ciscolive.com/global.html"
 
   - date: 2026-06-01
     end_date: 2026-06-04
     category: conference
-    title: "Snowflake Summit 2026 (旧金山)"
+    title: "Snowflake Summit 2026 (San Francisco)"
     importance: 2
     tickers: [SNOW]
-    watch: "Snowflake Cortex AI / 数据云 AI 战略;影响数据股情绪"
+    watch: "Snowflake Cortex AI / Data Cloud AI strategy; impacts data software sentiment"
     source_url: "https://www.snowflake.com/en/summit/"
 
   - date: 2026-06-15
     end_date: 2026-06-18
     category: conference
-    title: "Databricks Data + AI Summit 2026 (旧金山)"
+    title: "Databricks Data + AI Summit 2026 (San Francisco)"
     importance: 2
     tickers: [SNOW, MDB, DDOG]
-    watch: "数据+AI 平台趋势;Databricks(未上市)动向,影响 SNOW/MDB 等情绪"
+    watch: "Data+AI platform trends; Databricks (private) moves impact SNOW/MDB sentiment"
     source_url: "https://www.databricks.com/dataaisummit"
 
   - date: 2026-09-15
@@ -69,7 +69,7 @@ events:
     title: "Salesforce Dreamforce 2026"
     importance: 2
     tickers: [CRM]
-    watch: "Agentforce / 企业 AI agent 进展与变现"
+    watch: "Agentforce / Enterprise AI agent progress and monetization"
     source_url: "https://www.salesforce.com/dreamforce/"
 
   - date: 2026-09-23
@@ -78,7 +78,7 @@ events:
     title: "Meta Connect 2026"
     importance: 2
     tickers: [META]
-    watch: "AI 眼镜 / Quest、端侧 AI 与广告 AI"
+    watch: "AI Glasses / Quest, edge AI and ads AI"
     source_url: "https://www.meta.com/connect/"
 
   - date: 2026-09-29
@@ -86,7 +86,7 @@ events:
     title: "OpenAI DevDay 2026"
     importance: 2
     tickers: [MSFT, NVDA]
-    watch: "OpenAI 新模型 / API;影响整个 AI 应用层与算力需求叙事"
+    watch: "OpenAI new models / API; impacts entire AI application layer and compute demand narrative"
     source_url: "https://openai.com/devday/"
 
   - date: 2026-11-30
@@ -95,17 +95,17 @@ events:
     title: "AWS re:Invent 2026 (Las Vegas)"
     importance: 2
     tickers: [AMZN]
-    watch: "AWS AI 服务、自研芯片 Trainium/Inferentia、云增速"
+    watch: "AWS AI services, custom chips Trainium/Inferentia, cloud growth rate"
     source_url: "https://aws.amazon.com/events/reinvent/"
 
-  # --- 政策/监管 (category: policy) ---
-  # 只在有"确定日期"时添加(如法院裁决日、关税/出口管制生效日、听证日)。
-  # 不要凭传闻填日期。示例模板(取消注释并填真实日期):
+  # --- Policy/Regulation (category: policy) ---
+  # Add only when there is a "confirmed date" (e.g. court ruling day, tariff/export control effective day, hearing day).
+  # Do not add dates based on rumors. Example template (uncomment and fill actual date):
   # - date: 2026-XX-XX
   #   category: policy
-  #   title: "Google 广告技术(AdX)反垄断补救裁决"
+  #   title: "Google Ad Tech (AdX) Antitrust Remedy Ruling"
   #   importance: 3
   #   tickers: [GOOGL]
-  #   watch: "是否拆分广告业务;对 GOOGL 及广告科技股影响"
+  #   watch: "Whether ad business is split; impacts GOOGL and ad-tech stocks"
   #   source_url: "https://www.justice.gov/atr"
 
