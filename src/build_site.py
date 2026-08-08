@@ -8,12 +8,13 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from src.config import SITE_DIR, today_local
-from src.events_model import CATEGORIES, IMPORTANCE_ZH, Event
+from src.events_model import CATEGORIES, IMPORTANCE_EN, Event
 
 DISCLAIMER = (
-    "数据来源:财报与预期来自 Yahoo Finance(yfinance);宏观/美联储日期来自 BLS/BEA/美联储官方"
-    "发布日历;期权到期/指数重构为日历推算;发布会/IPO 为人工整理或 Nasdaq 抓取。日期可能变动或为预估,"
-    "财报/IPO 精确日期与盘前盘后请以公司 IR 或来源链接为准。本页仅供研究参考,不构成投资建议。"
+    "Sources: Earnings and estimates from Yahoo Finance; Macro/Fed dates from official BLS/BEA/Fed "
+    "calendars; Options/Index dates are computed; Conferences/IPOs are curated or scraped from Nasdaq. Dates may "
+    "change or be estimated; for exact earnings/IPO dates and BMO/AMC times, check company IR or source links. "
+    "This page is for research reference only and does not constitute investment advice."
 )
 
 _CAT_COLOR = {
@@ -21,18 +22,18 @@ _CAT_COLOR = {
     "conference": "#2bb0c2", "policy": "#e0708a", "ipo": "#2ea043",
     "options": "#d2992b", "index": "#8b949e",
 }
-_WD = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+_WD = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 # Per-category label for the "entry" button (where to watch/read the result).
 _ACTION_LABEL = {
-    "earnings": "看财报 / 电话会",
-    "macro": "看数据发布",
-    "fed": "看声明 / 发布会",
-    "conference": "看直播 / 主题演讲",
-    "policy": "看裁决 / 公告",
-    "ipo": "看招股 / 行情",
-    "options": "了解详情",
-    "index": "了解详情",
+    "earnings": "Earnings / Call",
+    "macro": "Data Release",
+    "fed": "Statement / Press",
+    "conference": "Stream / Keynote",
+    "policy": "Ruling / Notice",
+    "ipo": "Prospectus / Quote",
+    "options": "Details",
+    "index": "Details",
 }
 
 _CSS = """
@@ -125,28 +126,28 @@ def _fmt_rev(v, cur: str = "") -> str:
 
 def _rel(d: dt.date, today: dt.date) -> str:
     n = (d - today).days
-    return {0: "今天", 1: "明天", 2: "后天"}.get(n, f"{n} 天后") if n >= 0 else "已过"
+    return {0: "Today", 1: "Tomorrow", 2: "In 2 days"}.get(n, f"In {n} days") if n >= 0 else "Passed"
 
 
 def _earnings_extra(meta: dict) -> str:
     eps, rev = meta.get("eps_estimate"), meta.get("revenue_estimate")
     cur = (meta.get("revenue_currency") or "").upper()
-    block = (f'<div class="ests"><div><div class="k">EPS 预期</div>'
+    block = (f'<div class="ests"><div><div class="k">EPS Est</div>'
              f'<div class="v">{_fmt_eps(eps, cur)}</div></div>'
-             f'<div><div class="k">营收 预期</div><div class="v">{_fmt_rev(rev, cur)}</div></div></div>')
+             f'<div><div class="k">Rev Est</div><div class="v">{_fmt_rev(rev, cur)}</div></div></div>')
     la, le = meta.get("last_eps_actual"), meta.get("last_eps_estimate")
     if la is not None and le is not None:
         cls = "beat" if la >= le else "miss"
-        word = "超预期" if la >= le else "不及预期"
+        word = "Beat" if la >= le else "Miss"
         # a percentage against a near-zero estimate is meaningless noise
         if abs(le) >= 0.10:
             pct = (la - le) / abs(le) * 100
             badge = f'<span class="bm {cls}">{word} {"+" if pct>=0 else ""}{pct:.1f}%</span>'
         else:
             badge = f'<span class="bm {cls}">{word}</span>'
-        q = f"（{meta['last_quarter']}）" if meta.get("last_quarter") else ""
-        block += (f'<div class="lastq">上季 EPS{q}：实际 <b style="color:#e8eaed">{_fmt_eps(la, cur)}</b>'
-                  f' · 预期 {_fmt_eps(le, cur)}{badge}</div>')
+        q = f" ({meta['last_quarter']})" if meta.get("last_quarter") else ""
+        block += (f'<div class="lastq">Last Q EPS{q}: Actual <b style="color:#e8eaed">{_fmt_eps(la, cur)}</b>'
+                  f' · Est {_fmt_eps(le, cur)}{badge}</div>')
     return block
 
 
@@ -163,37 +164,37 @@ def _when_label(e: Event) -> str:
 
 def _card(e: Event, today: dt.date) -> str:
     color = _CAT_COLOR.get(e.category, "#8b949e")
-    cat_zh = CATEGORIES.get(e.category, e.category)
+    cat_en = CATEGORIES.get(e.category, e.category)
     tickers = "".join(f'<span class="tk">{_esc(t)}</span>' for t in (e.tickers or []))
     ticker_row = f'<div class="row" style="margin-top:6px">{tickers}</div>' if tickers else ""
     when = _when_label(e)
     when_html = f'<span class="when">{_esc(when)}</span>' if when else ""
-    tbd = ('<span class="tbd">日期待确认</span>'
+    tbd = ('<span class="tbd">Date TBD</span>'
            if e.category == "earnings" and e.meta.get("date_confirmed") is False else "")
     extra = _earnings_extra(e.meta) if e.category == "earnings" else ""
-    label = _ACTION_LABEL.get(e.category, "查看")
+    label = _ACTION_LABEL.get(e.category, "View")
     action = (f'<div class="row" style="margin-top:8px">'
               f'<a class="action" style="background:{color}" href="{_esc(e.source_url)}"'
               f' target="_blank" rel="noopener">▶ {label} ↗</a></div>'
               if e.source_url else "")
     return f"""<div class="card" data-cat="{_esc(e.category)}" style="border-left-color:{color}">
   <div class="row">
-    <span class="catb" style="background:{color}">{_esc(cat_zh)}</span>
-    <span class="imp imp{e.importance}">重要度 {IMPORTANCE_ZH.get(e.importance,'中')}</span>
+    <span class="catb" style="background:{color}">{_esc(cat_en)}</span>
+    <span class="imp imp{e.importance}">Imp: {IMPORTANCE_EN.get(e.importance,'Med')}</span>
     {tbd}
     <span class="title">{_esc(e.title)}</span>
     {when_html}
   </div>
   {ticker_row}
   {extra}
-  <div class="watch"><b>看点:</b> {_esc(e.watch)}</div>
+  <div class="watch"><b>Watch:</b> {_esc(e.watch)}</div>
   {action}
 </div>"""
 
 
 def _timeline(events: list[Event], today: dt.date) -> str:
     if not events:
-        return '<div class="empty">该区间暂无事件。</div>'
+        return '<div class="empty">No events in this period.</div>'
     by_day: dict[str, list[Event]] = defaultdict(list)
     for e in events:
         by_day[e.date].append(e)
@@ -220,10 +221,10 @@ def build_html(this_week: list[Event], upcoming: list[Event],
     A('<!doctype html><html lang="zh"><head><meta charset="utf-8">')
     A('<meta name="viewport" content="width=device-width,initial-scale=1">')
     A('<meta name="theme-color" content="#0f1115">')
-    A("<title>AI 市场事件日历</title>")
+    A("<title>AI Market Event Calendar</title>")
     A(f"<style>{_CSS}</style></head><body>")
-    A('<header><div class="wrap"><h1>🗓️ AI 市场事件日历</h1>'
-      f'<span class="upd">更新于 {today} (北京时间) · 7 天内 {len(this_week)} 件 · 45 天内共 {total} 件</span>'
+    A('<header><div class="wrap"><h1>🗓️ AI Market Event Calendar</h1>'
+      f'<span class="upd">Updated {today} (Beijing Time) · {len(this_week)} events in 7 days · {total} events in 45 days</span>'
       "</div></header>")
     A('<div class="wrap">')
 
@@ -234,15 +235,15 @@ def build_html(this_week: list[Event], upcoming: list[Event],
         f'{CATEGORIES[c]} {cats.get(c,0)}</span>' for c in CATEGORIES if cats.get(c)
     ) + "</div>")
 
-    A("<h2>本周大事（未来 7 天）</h2>")
+    A("<h2>This Week (Next 7 Days)</h2>")
     A(_timeline(this_week, today))
 
-    A("<h2>未来 8–45 天</h2>")
+    A("<h2>Upcoming 8–45 Days</h2>")
     A(_timeline(upcoming, today))
 
     A(f'<footer><div class="disc">⚠️ {_esc(DISCLAIMER)}</div>'
-      ' <a href="events.ics">📅 订阅日历 (ICS,手机日历可直接订阅)</a>'
-      ' · <a href="events.json" download>下载数据 (JSON)</a></footer>')
+      ' <a href="events.ics">📅 Subscribe to Calendar (ICS)</a>'
+      ' · <a href="events.json" download>Download Data (JSON)</a></footer>')
     A(f"<script>{_FILTER_JS}</script>")
     A("</div></body></html>")
     return "\n".join(parts)

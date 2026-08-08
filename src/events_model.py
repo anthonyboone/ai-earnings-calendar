@@ -11,17 +11,17 @@ from dataclasses import asdict, dataclass, field
 
 # Controlled category vocabulary (drives the site's colors/labels).
 CATEGORIES = {
-    "earnings": "财报",
-    "macro": "宏观数据",
-    "fed": "美联储/货币政策",
-    "conference": "发布会 / 大会",
-    "policy": "政策 / 监管",
-    "ipo": "IPO / 上市",
-    "options": "期权到期",
-    "index": "指数重构",
+    "earnings": "Earnings",
+    "macro": "Macro",
+    "fed": "Fed/Monetary Policy",
+    "conference": "Conference/Keynote",
+    "policy": "Policy/Regulation",
+    "ipo": "IPO",
+    "options": "Options Expiry",
+    "index": "Index Rebalance",
 }
 
-IMPORTANCE_ZH = {3: "高", 2: "中", 1: "低"}
+IMPORTANCE_EN = {3: "High", 2: "Med", 1: "Low"}
 
 
 @dataclass
@@ -31,9 +31,9 @@ class Event:
     title: str
     importance: int = 2             # 3 high / 2 medium / 1 low
     end_date: str = ""              # for multi-day events (conferences)
-    time_et: str = ""               # "08:30", "盘后", "14:00", or ""
+    time_et: str = ""               # "08:30", "AMC", "14:00", or ""
     tickers: list = field(default_factory=list)
-    watch: str = ""                 # 你重点看什么
+    watch: str = ""                 # What to watch
     source_url: str = ""
     meta: dict = field(default_factory=dict)   # category-specific extras
 

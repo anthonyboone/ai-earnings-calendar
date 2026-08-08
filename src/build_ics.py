@@ -13,7 +13,7 @@ from pathlib import Path
 
 from src.events_model import CATEGORIES, Event
 
-_CAL_NAME = "AI 市场事件日历"
+_CAL_NAME = "AI Market Event Calendar"
 
 
 def _esc(s: str) -> str:
@@ -22,7 +22,7 @@ def _esc(s: str) -> str:
 
 
 def _fold(line: str) -> str:
-    """RFC 5545 折行: lines over 75 octets continue on the next line after a
+    """RFC 5545 folding: lines over 75 octets continue on the next line after a
     space. Splits on UTF-8 character boundaries."""
     enc = line.encode("utf-8")
     if len(enc) <= 74:
@@ -44,7 +44,7 @@ def _et_to_utc(date_iso: str, hhmm: str) -> dt.datetime | None:
         local = dt.datetime.fromisoformat(date_iso).replace(
             hour=int(h), minute=int(m), tzinfo=ZoneInfo("America/New_York"))
         return local.astimezone(dt.timezone.utc)
-    except Exception:  # noqa: BLE001  ("盘后" etc. -> treat as all-day)
+    except Exception:  # noqa: BLE001  ("AMC" etc. -> treat as all-day)
         return None
 
 
@@ -52,12 +52,12 @@ def _vevent(e: Event, dtstamp: str) -> list[str]:
     uid = (f"{e.date}-{e.category}-"
            f"{hashlib.md5(e.title.encode('utf-8')).hexdigest()[:10]}"
            "@ai-earnings-calendar")
-    summary = f"【{CATEGORIES.get(e.category, e.category)}】{e.title}"
+    summary = f"[{CATEGORIES.get(e.category, e.category)}] {e.title}"
     desc_bits = []
     if e.watch:
-        desc_bits.append(f"看点: {e.watch}")
+        desc_bits.append(f"Watch: {e.watch}")
     if e.tickers:
-        desc_bits.append("相关: " + " ".join(e.tickers))
+        desc_bits.append("Tickers: " + " ".join(e.tickers))
     if e.source_url:
         desc_bits.append(e.source_url)
 
