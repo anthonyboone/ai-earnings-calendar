@@ -12,7 +12,7 @@ def test_quad_witching_june_2026_shifts_for_juneteenth():
     assert not any(e.date == "2026-06-19" for e in opts)
     quad = [e for e in opts if e.date == "2026-06-18"]
     assert quad and quad[0].importance == 3
-    assert "休市" in quad[0].watch
+    assert "holiday" in quad[0].watch
 
 
 def test_quad_witching_september_2026_normal_friday():

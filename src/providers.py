@@ -120,41 +120,41 @@ def deterministic_events(start: dt.date, end: dt.date) -> list[Event]:
     for y, m in _months_between(start, end):
         fri3 = _nth_friday(y, m, 3)             # 3rd Friday
         opex = _prev_trading_day(fri3)          # holiday -> prior trading day
-        shifted = f";注意:第三个周五 {fri3:%m/%d} 美股休市,到期结算提前至 {opex:%m/%d}" \
+        shifted = f"; Note: 3rd Friday {fri3:%m/%d} is a holiday, settlement shifted to {opex:%m/%d}" \
             if opex != fri3 else ""
         if start <= opex <= end:
             quad = m in (3, 6, 9, 12)
             out.append(Event(
                 date=opex.isoformat(), category="options",
-                title="期权四巫日 (季度衍生品到期)" if quad else "月度期权到期日 (OpEx)",
+                title="Quad Witching (Quarterly Derivatives Expiry)" if quad else "Monthly Options Expiry (OpEx)",
                 importance=3 if quad else 1,
-                watch=("股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异"
-                       if quad else "月度期权到期,尾盘波动可能放大") + shifted,
+                watch=("Index futures/options and single-stock options expire same day, expect huge volume and erratic end-of-day moves"
+                       if quad else "Monthly options expire, potential end-of-day volatility") + shifted,
                 source_url="",
             ))
             if quad:
                 out.append(Event(
                     date=opex.isoformat(), category="index",
-                    title="标普 500 / 中小盘 季度再平衡生效",
+                    title="S&P 500 / MidCap Quarterly Rebalance",
                     importance=2,
-                    watch="标普指数季度调整当日生效;新纳入个股被动买入需求,尾盘成交放大" + shifted,
+                    watch="S&P quarterly rebalance effective today; passive buying for new additions, huge closing cross volume" + shifted,
                     source_url="https://www.spglobal.com/spdji/en/governance/methodology/",
                 ))
         # Russell US reconstitution — semi-annual since 2026 (FTSE Russell notice
         # 2025-11-05): June = 4th Friday of June; December = 2nd Friday of December.
         rus_days = []
         if m == 6:
-            rus_days.append((_prev_trading_day(_nth_friday(y, 6, 4)), "6月"))
+            rus_days.append((_prev_trading_day(_nth_friday(y, 6, 4)), "June"))
         if m == 12 and y >= 2026:
-            rus_days.append((_prev_trading_day(_nth_friday(y, 12, 2)), "12月"))
+            rus_days.append((_prev_trading_day(_nth_friday(y, 12, 2)), "Dec"))
         for rus, label in rus_days:
             if start <= rus <= end:
                 out.append(Event(
                     date=rus.isoformat(), category="index",
-                    title=f"Russell 指数重构生效 ({label},半年度)",
+                    title=f"Russell Reconstitution ({label}, Semi-Annual)",
                     importance=2,
-                    watch="收盘后生效,大批被动资金当日尾盘强制调仓,小盘股异动多为对账而非基本面;"
-                          "2026 起改为每年 6 月+12 月两次",
+                    watch="Effective after close, massive passive rebalancing at the closing cross, small-cap volume spikes;"
+                          " shifted to semi-annual (June & Dec) starting 2026",
                     source_url="https://www.lseg.com/en/ftse-russell/russell-reconstitution",
                 ))
     return out
@@ -164,17 +164,17 @@ def deterministic_events(start: dt.date, end: dt.date) -> list[Event]:
 # 3) Earnings -> Event
 # --------------------------------------------------------------------------- #
 _WATCH_BY_SUBSECTOR = {
-    "AI semiconductors": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
-    "Semiconductor equipment": "设备订单、WFE 资本开支、对中国出口",
-    "EDA / chip design": "设计活动、AI 芯片设计需求",
-    "Networking / optical": "光通信/CPO、AI-era 带宽需求、网络设备订单",
-    "Servers / power / cooling": "AI 服务器订单与收入、电力/散热需求",
-    "Memory / storage (AI)": "HBM/存储价格与供给、AI 拉动",
-    "Hyperscale / cloud": "云增速、AI capex 资本开支、AI 变现",
-    "AI software / security / data": "AI 软件 ARR、净留存、平台扩张、估值",
-    "AI cloud / GPU": "GPU 算力供给、客户集中度、合同与积压订单",
-    "Power / nuclear (AI data centers)": "数据中心电力需求、PPA 长约",
-    "Consumer / platform AI": "AI 功能落地、用户与变现",
+    "AI semiconductors": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+    "Semiconductor equipment": "Equipment orders, WFE capex, exports to China",
+    "EDA / chip design": "Design activity, AI chip design demand",
+    "Networking / optical": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
+    "Servers / power / cooling": "AI server orders & revenue, power/cooling demand",
+    "Memory / storage (AI)": "HBM/storage pricing & supply, AI-driven demand",
+    "Hyperscale / cloud": "Cloud growth, AI capex, AI monetization",
+    "AI software / security / data": "AI software ARR, NRR, platform expansion, valuation",
+    "AI cloud / GPU": "GPU compute supply, customer concentration, contract backlog",
+    "Power / nuclear (AI data centers)": "Data center power demand, long-term PPAs",
+    "Consumer / platform AI": "AI feature rollout, user adoption & monetization",
 }
 _HIGH_SUBSECTORS = {
     "AI semiconductors", "Networking / optical", "Semiconductor equipment",
@@ -196,10 +196,10 @@ def earnings_events(today: dt.date, horizon_days: int, throttle: float = 0.0) ->
         events.append(Event(
             date=e.earnings_date,
             category="earnings",
-            title=f"{e.name} 财报",
+            title=f"{e.name} Earnings",
             importance=3 if e.subsector in _HIGH_SUBSECTORS else 2,
             tickers=[e.ticker],
-            watch=_WATCH_BY_SUBSECTOR.get(e.subsector, "财报与下季指引"),
+            watch=_WATCH_BY_SUBSECTOR.get(e.subsector, "Earnings and guidance"),
             source_url=f"https://finance.yahoo.com/quote/{e.ticker}",
             meta={
                 "ticker": e.ticker, "subsector": e.subsector,
@@ -276,7 +276,7 @@ def ipo_events(today: dt.date, horizon_days: int) -> list[Event]:
             out.append(Event(
                 date=d.isoformat(), category="ipo", title=label, importance=1,
                 tickers=[sym] if sym else [],
-                watch="新股定价/上市;留意是否 AI 相关及炒作风险",
+                watch="IPO pricing/listing; watch for AI relevance and hype risk",
                 source_url="https://www.nasdaq.com/market-activity/ipos",
             ))
     print(f"[ipo] {len(out)} IPO(s) in window")
