@@ -5,14 +5,14 @@
     {
       "date": "2026-08-10",
       "category": "earnings",
-      "title": "Silicon Labs 财报",
+      "title": "Silicon Labs Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "SLAB"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/SLAB",
       "meta": {
         "ticker": "SLAB",
@@ -29,14 +29,14 @@
     {
       "date": "2026-08-10",
       "category": "earnings",
-      "title": "Camtek 财报",
+      "title": "Camtek Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CAMT"
       ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "watch": "Equipment orders, WFE capex, exports to China",
       "source_url": "https://finance.yahoo.com/quote/CAMT",
       "meta": {
         "ticker": "CAMT",
@@ -53,14 +53,14 @@
     {
       "date": "2026-08-11",
       "category": "earnings",
-      "title": "Lumentum 财报",
+      "title": "Lumentum Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "LITE"
       ],
-      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
       "source_url": "https://finance.yahoo.com/quote/LITE",
       "meta": {
         "ticker": "LITE",
@@ -77,14 +77,14 @@
     {
       "date": "2026-08-11",
       "category": "earnings",
-      "title": "CoreWeave 财报",
+      "title": "CoreWeave Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CRWV"
       ],
-      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "watch": "GPU compute supply, customer concentration, contract backlog",
       "source_url": "https://finance.yahoo.com/quote/CRWV",
       "meta": {
         "ticker": "CRWV",
@@ -101,14 +101,14 @@
     {
       "date": "2026-08-11",
       "category": "earnings",
-      "title": "Super Micro Computer 财报",
+      "title": "Super Micro Computer Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "SMCI"
       ],
-      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "watch": "AI server orders & revenue, power/cooling demand",
       "source_url": "https://finance.yahoo.com/quote/SMCI",
       "meta": {
         "ticker": "SMCI",
@@ -125,14 +125,14 @@
     {
       "date": "2026-08-12",
       "category": "earnings",
-      "title": "Cisco Systems 财报",
+      "title": "Cisco Systems Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CSCO"
       ],
-      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
       "source_url": "https://finance.yahoo.com/quote/CSCO",
       "meta": {
         "ticker": "CSCO",
@@ -149,14 +149,14 @@
     {
       "date": "2026-08-12",
       "category": "earnings",
-      "title": "Coherent 财报",
+      "title": "Coherent Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "COHR"
       ],
-      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
       "source_url": "https://finance.yahoo.com/quote/COHR",
       "meta": {
         "ticker": "COHR",
@@ -173,14 +173,14 @@
     {
       "date": "2026-08-12",
       "category": "earnings",
-      "title": "Nebius Group 财报",
+      "title": "Nebius Group Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "NBIS"
       ],
-      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "watch": "GPU compute supply, customer concentration, contract backlog",
       "source_url": "https://finance.yahoo.com/quote/NBIS",
       "meta": {
         "ticker": "NBIS",
@@ -197,26 +197,26 @@
     {
       "date": "2026-08-12",
       "category": "macro",
-      "title": "CPI 通胀数据 (7月)",
+      "title": "CPI Inflation Data (Jul)",
       "importance": 3,
       "end_date": "",
       "time_et": "08:30",
       "tickers": [],
-      "watch": "通胀超预期 → 成长股承压;降温 → 风险偏好回升",
+      "watch": "Hot inflation → growth stocks pressured; cooling → risk appetite returns",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "meta": {}
     },
     {
       "date": "2026-08-13",
       "category": "earnings",
-      "title": "Applied Materials 财报",
+      "title": "Applied Materials Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "AMAT"
       ],
-      "watch": "设备订单、WFE 资本开支、对中国出口",
+      "watch": "Equipment orders, WFE capex, exports to China",
       "source_url": "https://finance.yahoo.com/quote/AMAT",
       "meta": {
         "ticker": "AMAT",
@@ -233,14 +233,14 @@
     {
       "date": "2026-08-17",
       "category": "earnings",
-      "title": "Fabrinet 财报",
+      "title": "Fabrinet Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "FN"
       ],
-      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
       "source_url": "https://finance.yahoo.com/quote/FN",
       "meta": {
         "ticker": "FN",
@@ -257,26 +257,26 @@
     {
       "date": "2026-08-21",
       "category": "options",
-      "title": "月度期权到期日 (OpEx)",
+      "title": "Monthly Options Expiry (OpEx)",
       "importance": 1,
       "end_date": "",
       "time_et": "",
       "tickers": [],
-      "watch": "月度期权到期,尾盘波动可能放大",
+      "watch": "Monthly options expire, potential end-of-day volatility",
       "source_url": "",
       "meta": {}
     },
     {
       "date": "2026-08-24",
       "category": "earnings",
-      "title": "Semtech 财报",
+      "title": "Semtech Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "SMTC"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/SMTC",
       "meta": {
         "ticker": "SMTC",
@@ -293,14 +293,14 @@
     {
       "date": "2026-08-25",
       "category": "earnings",
-      "title": "Intuit 财报",
+      "title": "Intuit Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "INTU"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/INTU",
       "meta": {
         "ticker": "INTU",
@@ -317,14 +317,14 @@
     {
       "date": "2026-08-26",
       "category": "earnings",
-      "title": "NVIDIA 财报",
+      "title": "NVIDIA Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "NVDA"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/NVDA",
       "meta": {
         "ticker": "NVDA",
@@ -341,14 +341,14 @@
     {
       "date": "2026-08-26",
       "category": "earnings",
-      "title": "Synopsys 财报",
+      "title": "Synopsys Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "SNPS"
       ],
-      "watch": "设计活动、AI 芯片设计需求",
+      "watch": "Design activity, AI chip design demand",
       "source_url": "https://finance.yahoo.com/quote/SNPS",
       "meta": {
         "ticker": "SNPS",
@@ -365,14 +365,14 @@
     {
       "date": "2026-08-26",
       "category": "earnings",
-      "title": "Salesforce 财报",
+      "title": "Salesforce Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CRM"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/CRM",
       "meta": {
         "ticker": "CRM",
@@ -389,14 +389,14 @@
     {
       "date": "2026-08-26",
       "category": "earnings",
-      "title": "CrowdStrike 财报",
+      "title": "CrowdStrike Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CRWD"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/CRWD",
       "meta": {
         "ticker": "CRWD",
@@ -413,14 +413,14 @@
     {
       "date": "2026-08-26",
       "category": "earnings",
-      "title": "Okta 财报",
+      "title": "Okta Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "OKTA"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/OKTA",
       "meta": {
         "ticker": "OKTA",
@@ -437,26 +437,26 @@
     {
       "date": "2026-08-26",
       "category": "macro",
-      "title": "PCE 物价指数 (7月)",
+      "title": "PCE Price Index (Jul)",
       "importance": 2,
       "end_date": "",
       "time_et": "08:30",
       "tickers": [],
-      "watch": "美联储最看重的通胀指标,影响降息时点",
+      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
       "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
       "meta": {}
     },
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "Marvell Technology 财报",
+      "title": "Marvell Technology Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "MRVL"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/MRVL",
       "meta": {
         "ticker": "MRVL",
@@ -473,14 +473,14 @@
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "Ambarella 财报",
+      "title": "Ambarella Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "AMBA"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/AMBA",
       "meta": {
         "ticker": "AMBA",
@@ -497,14 +497,14 @@
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "IREN 财报",
+      "title": "IREN Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "IREN"
       ],
-      "watch": "GPU 算力供给、客户集中度、合同与积压订单",
+      "watch": "GPU compute supply, customer concentration, contract backlog",
       "source_url": "https://finance.yahoo.com/quote/IREN",
       "meta": {
         "ticker": "IREN",
@@ -521,26 +521,26 @@
     {
       "date": "2026-08-27",
       "category": "fed",
-      "title": "Jackson Hole 全球央行年会",
+      "title": "Jackson Hole Economic Symposium",
       "importance": 3,
       "end_date": "2026-08-29",
       "time_et": "",
       "tickers": [],
-      "watch": "美联储主席主旨演讲历来是政策转向的沟通窗口;2026 主题:金融创新(支付与政策)",
+      "watch": "Fed Chair keynote is historically a communication window for policy shifts; 2026 Theme: Financial Innovation",
       "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/",
       "meta": {}
     },
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "SentinelOne 财报",
+      "title": "SentinelOne Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "S"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/S",
       "meta": {
         "ticker": "S",
@@ -557,14 +557,14 @@
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "Elastic 财报",
+      "title": "Elastic Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "ESTC"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/ESTC",
       "meta": {
         "ticker": "ESTC",
@@ -581,14 +581,14 @@
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "Rubrik 财报",
+      "title": "Rubrik Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "RBRK"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/RBRK",
       "meta": {
         "ticker": "RBRK",
@@ -605,14 +605,14 @@
     {
       "date": "2026-08-27",
       "category": "earnings",
-      "title": "Workday 财报",
+      "title": "Workday Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "WDAY"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/WDAY",
       "meta": {
         "ticker": "WDAY",
@@ -629,14 +629,14 @@
     {
       "date": "2026-09-01",
       "category": "earnings",
-      "title": "Palo Alto Networks 财报",
+      "title": "Palo Alto Networks Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "PANW"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/PANW",
       "meta": {
         "ticker": "PANW",
@@ -653,14 +653,14 @@
     {
       "date": "2026-09-01",
       "category": "earnings",
-      "title": "MongoDB 财报",
+      "title": "MongoDB Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "MDB"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/MDB",
       "meta": {
         "ticker": "MDB",
@@ -677,14 +677,14 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
-      "title": "Broadcom 财报",
+      "title": "Broadcom Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "AVGO"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/AVGO",
       "meta": {
         "ticker": "AVGO",
@@ -701,14 +701,14 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
-      "title": "Credo Technology 财报",
+      "title": "Credo Technology Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CRDO"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/CRDO",
       "meta": {
         "ticker": "CRDO",
@@ -725,14 +725,14 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
-      "title": "NetApp 财报",
+      "title": "NetApp Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "NTAP"
       ],
-      "watch": "HBM/存储价格与供给、AI 拉动",
+      "watch": "HBM/storage pricing & supply, AI-driven demand",
       "source_url": "https://finance.yahoo.com/quote/NTAP",
       "meta": {
         "ticker": "NTAP",
@@ -749,14 +749,14 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
-      "title": "Snowflake 财报",
+      "title": "Snowflake Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "SNOW"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/SNOW",
       "meta": {
         "ticker": "SNOW",
@@ -773,14 +773,14 @@
     {
       "date": "2026-09-02",
       "category": "earnings",
-      "title": "GitLab 财报",
+      "title": "GitLab Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "GTLB"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/GTLB",
       "meta": {
         "ticker": "GTLB",
@@ -797,14 +797,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Ciena 财报",
+      "title": "Ciena Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "CIEN"
       ],
-      "watch": "光通信/CPO、AI-era 带宽需求、网络设备订单",
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
       "source_url": "https://finance.yahoo.com/quote/CIEN",
       "meta": {
         "ticker": "CIEN",
@@ -821,14 +821,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Dell Technologies 财报",
+      "title": "Dell Technologies Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "DELL"
       ],
-      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "watch": "AI server orders & revenue, power/cooling demand",
       "source_url": "https://finance.yahoo.com/quote/DELL",
       "meta": {
         "ticker": "DELL",
@@ -845,14 +845,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Hewlett Packard Enterprise 财报",
+      "title": "Hewlett Packard Enterprise Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "HPE"
       ],
-      "watch": "AI 服务器订单与收入、电力/散热需求",
+      "watch": "AI server orders & revenue, power/cooling demand",
       "source_url": "https://finance.yahoo.com/quote/HPE",
       "meta": {
         "ticker": "HPE",
@@ -869,14 +869,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "UiPath 财报",
+      "title": "UiPath Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "PATH"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/PATH",
       "meta": {
         "ticker": "PATH",
@@ -893,14 +893,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Zscaler 财报",
+      "title": "Zscaler Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "ZS"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/ZS",
       "meta": {
         "ticker": "ZS",
@@ -917,14 +917,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Samsara 财报",
+      "title": "Samsara Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "IOT"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/IOT",
       "meta": {
         "ticker": "IOT",
@@ -941,14 +941,14 @@
     {
       "date": "2026-09-03",
       "category": "earnings",
-      "title": "Guidewire 财报",
+      "title": "Guidewire Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "GWRE"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/GWRE",
       "meta": {
         "ticker": "GWRE",
@@ -965,26 +965,26 @@
     {
       "date": "2026-09-04",
       "category": "macro",
-      "title": "非农就业报告 (8月)",
+      "title": "Nonfarm Payrolls (Aug)",
       "importance": 3,
       "end_date": "",
       "time_et": "08:30",
       "tickers": [],
-      "watch": "9/15-16 FOMC 前最后一份非农",
+      "watch": "Last NFP before Sep 15-16 FOMC meeting",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "meta": {}
     },
     {
       "date": "2026-09-09",
       "category": "earnings",
-      "title": "Oracle 财报",
+      "title": "Oracle Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "ORCL"
       ],
-      "watch": "云增速、AI capex 资本开支、AI 变现",
+      "watch": "Cloud growth, AI capex, AI monetization",
       "source_url": "https://finance.yahoo.com/quote/ORCL",
       "meta": {
         "ticker": "ORCL",
@@ -1001,14 +1001,14 @@
     {
       "date": "2026-09-09",
       "category": "earnings",
-      "title": "C3.ai 财报",
+      "title": "C3.ai Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "AI"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/AI",
       "meta": {
         "ticker": "AI",
@@ -1025,14 +1025,14 @@
     {
       "date": "2026-09-10",
       "category": "earnings",
-      "title": "Adobe 财报",
+      "title": "Adobe Earnings",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "ADBE"
       ],
-      "watch": "AI 软件 ARR、净留存、平台扩张、估值",
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
       "source_url": "https://finance.yahoo.com/quote/ADBE",
       "meta": {
         "ticker": "ADBE",
@@ -1049,12 +1049,12 @@
     {
       "date": "2026-09-11",
       "category": "macro",
-      "title": "CPI 通胀数据 (8月)",
+      "title": "CPI Inflation Data (Aug)",
       "importance": 3,
       "end_date": "",
       "time_et": "08:30",
       "tickers": [],
-      "watch": "9/15-16 FOMC 前最后一份 CPI",
+      "watch": "Last CPI before Sep 15-16 FOMC meeting",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "meta": {}
     },
@@ -1068,57 +1068,57 @@
       "tickers": [
         "CRM"
       ],
-      "watch": "Agentforce / 企业 AI agent 进展与变现",
+      "watch": "Agentforce / Enterprise AI agent progress and monetization",
       "source_url": "https://www.salesforce.com/dreamforce/",
       "meta": {}
     },
     {
       "date": "2026-09-16",
       "category": "fed",
-      "title": "FOMC 利率决议 (含点阵图)",
+      "title": "FOMC Rate Decision (w/ Dot Plot)",
       "importance": 3,
       "end_date": "",
       "time_et": "14:00",
       "tickers": [],
-      "watch": "会议 9/15-16;决议 + 季度经济预测 (SEP) + 点阵图 + 发布会",
+      "watch": "Meeting Sep 15-16; decision + SEP + dot plot + press conf",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "meta": {}
     },
     {
       "date": "2026-09-18",
       "category": "options",
-      "title": "期权四巫日 (季度衍生品到期)",
+      "title": "Quad Witching (Quarterly Derivatives Expiry)",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [],
-      "watch": "股指期货/期权/个股期权同日到期结算,成交量巨大、尾盘波动诡异",
+      "watch": "Index futures/options and single-stock options expire same day, expect huge volume and erratic end-of-day moves",
       "source_url": "",
       "meta": {}
     },
     {
       "date": "2026-09-18",
       "category": "index",
-      "title": "标普 500 / 中小盘 季度再平衡生效",
+      "title": "S&P 500 / MidCap Quarterly Rebalance",
       "importance": 2,
       "end_date": "",
       "time_et": "",
       "tickers": [],
-      "watch": "标普指数季度调整当日生效;新纳入个股被动买入需求,尾盘成交放大",
+      "watch": "S&P quarterly rebalance effective today; passive buying for new additions, huge closing cross volume",
       "source_url": "https://www.spglobal.com/spdji/en/governance/methodology/",
       "meta": {}
     },
     {
       "date": "2026-09-23",
       "category": "earnings",
-      "title": "Micron Technology 财报",
+      "title": "Micron Technology Earnings",
       "importance": 3,
       "end_date": "",
       "time_et": "",
       "tickers": [
         "MU"
       ],
-      "watch": "AI 芯片收入、数据中心需求、custom ASIC、下季指引",
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
       "source_url": "https://finance.yahoo.com/quote/MU",
       "meta": {
         "ticker": "MU",
@@ -1142,7 +1142,7 @@
       "tickers": [
         "META"
       ],
-      "watch": "AI 眼镜 / Quest、端侧 AI 与广告 AI",
+      "watch": "AI Glasses / Quest, edge AI and ads AI",
       "source_url": "https://www.meta.com/connect/",
       "meta": {}
     }
