@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15",
-  "today": "2026-08-15",
+  "generated": "2026-08-16",
+  "today": "2026-08-16",
   "events": [
     {
       "date": "2026-08-17",
@@ -931,6 +931,18 @@
       ],
       "watch": "OpenAI new models / API; impacts entire AI application layer and compute demand narrative",
       "source_url": "https://openai.com/devday/",
+      "meta": {}
+    },
+    {
+      "date": "2026-09-30",
+      "category": "macro",
+      "title": "PCE Price Index (Aug)",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
       "meta": {}
     }
   ]
