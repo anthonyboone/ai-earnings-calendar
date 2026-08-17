@@ -1,31 +1,7 @@
 {
-  "generated": "2026-08-17",
-  "today": "2026-08-17",
+  "generated": "2026-08-18",
+  "today": "2026-08-18",
   "events": [
-    {
-      "date": "2026-08-17",
-      "category": "earnings",
-      "title": "Fabrinet Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "FN"
-      ],
-      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
-      "source_url": "https://finance.yahoo.com/quote/FN",
-      "meta": {
-        "ticker": "FN",
-        "subsector": "Networking / optical",
-        "date_confirmed": true,
-        "eps_estimate": 3.81462,
-        "revenue_estimate": 1275092500.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-03-31",
-        "last_eps_actual": 3.72,
-        "last_eps_estimate": 3.56263
-      }
-    },
     {
       "date": "2026-08-21",
       "category": "options",
@@ -943,6 +919,18 @@
       "tickers": [],
       "watch": "Fed's preferred inflation measure, impacts rate cut timing",
       "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "meta": {}
+    },
+    {
+      "date": "2026-10-02",
+      "category": "macro",
+      "title": "Nonfarm Payrolls (Sep)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Labor market strength directly affects Fed rate cut path",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "meta": {}
     }
   ]
