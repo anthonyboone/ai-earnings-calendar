@@ -1,55 +1,7 @@
 {
-  "generated": "2026-08-25",
-  "today": "2026-08-25",
+  "generated": "2026-08-26",
+  "today": "2026-08-26",
   "events": [
-    {
-      "date": "2026-08-25",
-      "category": "earnings",
-      "title": "Semtech Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "SMTC"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/SMTC",
-      "meta": {
-        "ticker": "SMTC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.61402,
-        "revenue_estimate": 328670920.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-04-30",
-        "last_eps_actual": 0.51,
-        "last_eps_estimate": 0.45335
-      }
-    },
-    {
-      "date": "2026-08-25",
-      "category": "earnings",
-      "title": "Intuit Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "INTU"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/INTU",
-      "meta": {
-        "ticker": "INTU",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 3.58739,
-        "revenue_estimate": 4268872240.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-04-30",
-        "last_eps_actual": 12.8,
-        "last_eps_estimate": 12.56873
-      }
-    },
     {
       "date": "2026-08-26",
       "category": "earnings",
