@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30",
-  "today": "2026-08-30",
+  "generated": "2026-08-31",
+  "today": "2026-08-31",
   "events": [
     {
       "date": "2026-09-01",
@@ -66,8 +66,8 @@
         "ticker": "PANW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.97701,
-        "revenue_estimate": 3351899260.0,
+        "eps_estimate": 0.97745,
+        "revenue_estimate": 3351856080.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-04-30",
         "last_eps_actual": 0.85,
@@ -668,6 +668,30 @@
       "watch": "Hot inflation → growth stocks pressured; cooling → risk appetite returns",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "meta": {}
+    },
+    {
+      "date": "2026-10-15",
+      "category": "earnings",
+      "title": "TSMC Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TSM"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/TSM",
+      "meta": {
+        "ticker": "TSM",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 4.45834,
+        "revenue_estimate": 1454960072270.0,
+        "revenue_currency": "TWD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 4.31,
+        "last_eps_estimate": 3.88658
+      }
     }
   ]
 }
