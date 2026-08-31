@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31",
-  "today": "2026-08-31",
+  "generated": "2026-09-01",
+  "today": "2026-09-01",
   "events": [
     {
       "date": "2026-09-01",
@@ -692,6 +692,18 @@
         "last_eps_actual": 4.31,
         "last_eps_estimate": 3.88658
       }
+    },
+    {
+      "date": "2026-10-16",
+      "category": "options",
+      "title": "Monthly Options Expiry (OpEx)",
+      "importance": 1,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [],
+      "watch": "Monthly options expire, potential end-of-day volatility",
+      "source_url": "",
+      "meta": {}
     }
   ]
 }
