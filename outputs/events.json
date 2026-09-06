@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06",
-  "today": "2026-09-06",
+  "generated": "2026-09-07",
+  "today": "2026-09-07",
   "events": [
     {
       "date": "2026-09-10",
@@ -421,7 +421,7 @@
         "ticker": "VRT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.82782,
+        "eps_estimate": 1.82173,
         "revenue_estimate": 3771417040.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -446,11 +446,35 @@
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
         "eps_estimate": 0.45154,
-        "revenue_estimate": 27521552050.0,
+        "revenue_estimate": 27533944910.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
         "last_eps_estimate": 0.54236
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "category": "earnings",
+      "title": "Intel Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "INTC"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/INTC",
+      "meta": {
+        "ticker": "INTC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.38887,
+        "revenue_estimate": 16419557130.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.42,
+        "last_eps_estimate": 0.21584
       }
     }
   ]
