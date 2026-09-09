@@ -303,7 +303,7 @@
         "date_confirmed": true,
         "eps_estimate": 0.48526,
         "revenue_estimate": 426293560.0,
-        "revenue_currency": "USD",
+        "revenue_currency": "",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.35,
         "last_eps_estimate": 0.43397
