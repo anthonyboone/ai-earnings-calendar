@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14",
-  "today": "2026-09-14",
+  "generated": "2026-09-15",
+  "today": "2026-09-15",
   "events": [
     {
       "date": "2026-09-15",
@@ -944,6 +944,30 @@
       "watch": "Fed's preferred inflation measure, impacts rate cut timing",
       "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
       "meta": {}
+    },
+    {
+      "date": "2026-10-30",
+      "category": "earnings",
+      "title": "nVent Electric Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NVT"
+      ],
+      "watch": "AI server orders & revenue, power/cooling demand",
+      "source_url": "https://finance.yahoo.com/quote/NVT",
+      "meta": {
+        "ticker": "NVT",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 1.3899,
+        "revenue_estimate": 1427271850.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.45,
+        "last_eps_estimate": 1.16378
+      }
     }
   ]
 }
