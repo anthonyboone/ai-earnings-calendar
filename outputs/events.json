@@ -1,19 +1,7 @@
 {
-  "generated": "2026-09-16",
-  "today": "2026-09-16",
+  "generated": "2026-09-17",
+  "today": "2026-09-17",
   "events": [
-    {
-      "date": "2026-09-16",
-      "category": "fed",
-      "title": "FOMC Rate Decision (w/ Dot Plot)",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "14:00",
-      "tickers": [],
-      "watch": "Meeting Sep 15-16; decision + SEP + dot plot + press conf",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "meta": {}
-    },
     {
       "date": "2026-09-18",
       "category": "options",
