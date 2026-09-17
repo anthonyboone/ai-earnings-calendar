@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17",
-  "today": "2026-09-17",
+  "generated": "2026-09-18",
+  "today": "2026-09-18",
   "events": [
     {
       "date": "2026-09-18",
@@ -71,8 +71,8 @@
         "ticker": "MU",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 31.33121,
-        "revenue_estimate": 50787211780.0,
+        "eps_estimate": 31.35415,
+        "revenue_estimate": 50819225080.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-05-31",
         "last_eps_actual": 25.11,
@@ -120,7 +120,7 @@
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
         "eps_estimate": -0.29333,
-        "revenue_estimate": 126400250.0,
+        "revenue_estimate": 128980200.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-05-31",
         "last_eps_actual": 0.04,
@@ -215,8 +215,8 @@
         "ticker": "PEGA",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.48526,
-        "revenue_estimate": 426293560.0,
+        "eps_estimate": 0.4901,
+        "revenue_estimate": 425404670.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.35,
@@ -335,8 +335,8 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45154,
-        "revenue_estimate": 27533944910.0,
+        "eps_estimate": 0.4544,
+        "revenue_estimate": 27500849980.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
@@ -359,8 +359,8 @@
         "ticker": "INTC",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 0.38802,
-        "revenue_estimate": 16419696619.0,
+        "eps_estimate": 0.39065,
+        "revenue_estimate": 16428276720.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.42,
@@ -575,8 +575,8 @@
         "ticker": "GOOGL",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 3.00752,
-        "revenue_estimate": 127227149560.0,
+        "eps_estimate": 3.007,
+        "revenue_estimate": 127171342790.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 9.11,
@@ -600,7 +600,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 6.97333,
-        "revenue_estimate": 63315198780.0,
+        "revenue_estimate": 63310311800.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 6.18,
@@ -803,8 +803,8 @@
         "ticker": "AMZN",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 1.94973,
-        "revenue_estimate": 202141155960.0,
+        "eps_estimate": 1.94092,
+        "revenue_estimate": 202162138000.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 5.75,
@@ -935,12 +935,156 @@
         "ticker": "NVT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.38985,
-        "revenue_estimate": 1427271850.0,
+        "eps_estimate": 1.39382,
+        "revenue_estimate": 1431376710.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.45,
         "last_eps_estimate": 1.16378
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "Lattice Semiconductor Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "LSCC"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/LSCC",
+      "meta": {
+        "ticker": "LSCC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.55144,
+        "revenue_estimate": 255123720.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.53,
+        "last_eps_estimate": 0.44516
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "Aehr Test Systems Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AEHR"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/AEHR",
+      "meta": {
+        "ticker": "AEHR",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.09333,
+        "revenue_estimate": 26600000.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-05-31",
+        "last_eps_actual": 0.11,
+        "last_eps_estimate": -0.0075
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "Ichor Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ICHR"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/ICHR",
+      "meta": {
+        "ticker": "ICHR",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.45143,
+        "revenue_estimate": 330114570.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.34,
+        "last_eps_estimate": 0.30714
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "Fabrinet Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "FN"
+      ],
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
+      "source_url": "https://finance.yahoo.com/quote/FN",
+      "meta": {
+        "ticker": "FN",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 4.18448,
+        "revenue_estimate": 1400685670.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 4.1,
+        "last_eps_estimate": 3.81462
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "Palantir Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "PLTR"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/PLTR",
+      "meta": {
+        "ticker": "PLTR",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.41367,
+        "revenue_estimate": 2176726360.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.41,
+        "last_eps_estimate": 0.34596
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "category": "earnings",
+      "title": "BigBear.ai Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "BBAI"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/BBAI",
+      "meta": {
+        "ticker": "BBAI",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": null,
+        "revenue_estimate": 38943000.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -0.05,
+        "last_eps_estimate": -0.045
       }
     }
   ]
