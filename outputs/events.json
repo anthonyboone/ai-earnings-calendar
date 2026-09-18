@@ -1,31 +1,7 @@
 {
-  "generated": "2026-09-18",
-  "today": "2026-09-18",
+  "generated": "2026-09-19",
+  "today": "2026-09-19",
   "events": [
-    {
-      "date": "2026-09-18",
-      "category": "options",
-      "title": "Quad Witching (Quarterly Derivatives Expiry)",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [],
-      "watch": "Index futures/options and single-stock options expire same day, expect huge volume and erratic end-of-day moves",
-      "source_url": "",
-      "meta": {}
-    },
-    {
-      "date": "2026-09-18",
-      "category": "index",
-      "title": "S&P 500 / MidCap Quarterly Rebalance",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [],
-      "watch": "S&P quarterly rebalance effective today; passive buying for new additions, huge closing cross volume",
-      "source_url": "https://www.spglobal.com/spdji/en/governance/methodology/",
-      "meta": {}
-    },
     {
       "date": "2026-09-23",
       "category": "conference",
@@ -1085,6 +1061,222 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": -0.05,
         "last_eps_estimate": -0.045
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "AMD Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AMD"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/AMD",
+      "meta": {
+        "ticker": "AMD",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.92579,
+        "revenue_estimate": 12997554620.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.66,
+        "last_eps_estimate": 1.60841
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Astera Labs Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ALAB"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/ALAB",
+      "meta": {
+        "ticker": "ALAB",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.19161,
+        "revenue_estimate": 550636350.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.8,
+        "last_eps_estimate": 0.69195
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Silicon Labs Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SLAB"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/SLAB",
+      "meta": {
+        "ticker": "SLAB",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.84838,
+        "revenue_estimate": 242096490.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.71,
+        "last_eps_estimate": 0.68867
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Axcelis Technologies Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ACLS"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/ACLS",
+      "meta": {
+        "ticker": "ACLS",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 1.106,
+        "revenue_estimate": 230080760.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.06,
+        "last_eps_estimate": 0.894
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Ultra Clean Holdings Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "UCTT"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/UCTT",
+      "meta": {
+        "ticker": "UCTT",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.94525,
+        "revenue_estimate": 728065100.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.7,
+        "last_eps_estimate": 0.53076
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Arista Networks Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ANET"
+      ],
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
+      "source_url": "https://finance.yahoo.com/quote/ANET",
+      "meta": {
+        "ticker": "ANET",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 1.07656,
+        "revenue_estimate": 3326500420.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.02,
+        "last_eps_estimate": 0.88559
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Super Micro Computer Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SMCI"
+      ],
+      "watch": "AI server orders & revenue, power/cooling demand",
+      "source_url": "https://finance.yahoo.com/quote/SMCI",
+      "meta": {
+        "ticker": "SMCI",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 1.03705,
+        "revenue_estimate": 14971092730.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.7,
+        "last_eps_estimate": 0.95748
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Eaton Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ETN"
+      ],
+      "watch": "AI server orders & revenue, power/cooling demand",
+      "source_url": "https://finance.yahoo.com/quote/ETN",
+      "meta": {
+        "ticker": "ETN",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 3.52658,
+        "revenue_estimate": 8446282499.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 3.15,
+        "last_eps_estimate": 3.07642
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "Qualys Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "QLYS"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/QLYS",
+      "meta": {
+        "ticker": "QLYS",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 1.95569,
+        "revenue_estimate": 186608160.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.98,
+        "last_eps_estimate": 1.78483
       }
     }
   ]
