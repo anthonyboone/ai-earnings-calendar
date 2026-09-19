@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19",
-  "today": "2026-09-19",
+  "generated": "2026-09-20",
+  "today": "2026-09-20",
   "events": [
     {
       "date": "2026-09-23",
@@ -48,7 +48,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 31.35415,
-        "revenue_estimate": 50819225080.0,
+        "revenue_estimate": 50972182430.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-05-31",
         "last_eps_actual": 25.11,
@@ -156,7 +156,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 4.4614,
-        "revenue_estimate": 1454757744140.0,
+        "revenue_estimate": 1454935426950.0,
         "revenue_currency": "TWD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 4.31,
@@ -551,8 +551,8 @@
         "ticker": "GOOGL",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 3.007,
-        "revenue_estimate": 127171342790.0,
+        "eps_estimate": 3.01854,
+        "revenue_estimate": 127298017980.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 9.11,
@@ -635,8 +635,8 @@
         "ticker": "GNRC",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 2.45118,
-        "revenue_estimate": 1327725320.0,
+        "eps_estimate": 2.44654,
+        "revenue_estimate": 1327895650.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.91,
@@ -1277,6 +1277,246 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.98,
         "last_eps_estimate": 1.78483
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Arm Holdings Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ARM"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/ARM",
+      "meta": {
+        "ticker": "ARM",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.47351,
+        "revenue_estimate": 1375778890.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.45,
+        "last_eps_estimate": 0.4038
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "SiTime Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SITM"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/SITM",
+      "meta": {
+        "ticker": "SITM",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 3.55479,
+        "revenue_estimate": 287406880.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 2.34,
+        "last_eps_estimate": 1.95425
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Entegris Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ENTG"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/ENTG",
+      "meta": {
+        "ticker": "ENTG",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 1.01914,
+        "revenue_estimate": 921955400.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.93,
+        "last_eps_estimate": 0.8215
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Coherent Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "COHR"
+      ],
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
+      "source_url": "https://finance.yahoo.com/quote/COHR",
+      "meta": {
+        "ticker": "COHR",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 1.95875,
+        "revenue_estimate": 2298321090.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.74,
+        "last_eps_estimate": 1.61709
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "HubSpot Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "HUBS"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/HUBS",
+      "meta": {
+        "ticker": "HUBS",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 3.27145,
+        "revenue_estimate": 925362970.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 3.26,
+        "last_eps_estimate": 3.01566
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Dynatrace Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DT"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/DT",
+      "meta": {
+        "ticker": "DT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.48988,
+        "revenue_estimate": 567896220.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.48,
+        "last_eps_estimate": 0.44378
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Fortinet Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "FTNT"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/FTNT",
+      "meta": {
+        "ticker": "FTNT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.85724,
+        "revenue_estimate": 2062568310.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.9,
+        "last_eps_estimate": 0.74669
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "AppLovin Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "APP"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/APP",
+      "meta": {
+        "ticker": "APP",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 4.34862,
+        "revenue_estimate": 2070081240.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 3.76,
+        "last_eps_estimate": 3.74407
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "DigitalOcean Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DOCN"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/DOCN",
+      "meta": {
+        "ticker": "DOCN",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.31798,
+        "revenue_estimate": 306657240.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.45,
+        "last_eps_estimate": 0.26023
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
+      "title": "Talen Energy Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "TLN"
+      ],
+      "watch": "Data center power demand, long-term PPAs",
+      "source_url": "https://finance.yahoo.com/quote/TLN",
+      "meta": {
+        "ticker": "TLN",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 7.36766,
+        "revenue_estimate": 1334096000.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 2.3745,
+        "last_eps_estimate": 3.39119
       }
     }
   ]
