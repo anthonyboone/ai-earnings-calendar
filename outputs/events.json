@@ -1467,8 +1467,8 @@
         "revenue_estimate": 2070081240.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
-        "last_eps_actual": 3.9687,
-        "last_eps_estimate": 4.21
+        "last_eps_actual": 3.76,
+        "last_eps_estimate": 3.74407
       }
     },
     {
@@ -1852,7 +1852,7 @@
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": -0.13,
-        "last_eps_estimate": -0.12514
+        "last_eps_estimate": -0.13125
       }
     },
     {
