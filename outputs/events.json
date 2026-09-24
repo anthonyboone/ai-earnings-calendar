@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24",
-  "today": "2026-09-24",
+  "generated": "2026-09-25",
+  "today": "2026-09-25",
   "events": [
     {
       "date": "2026-09-29",
@@ -1852,6 +1852,54 @@
       "watch": "Labor market strength directly affects Fed rate cut path",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "meta": {}
+    },
+    {
+      "date": "2026-11-09",
+      "category": "earnings",
+      "title": "TeraWulf Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WULF"
+      ],
+      "watch": "GPU compute supply, customer concentration, contract backlog",
+      "source_url": "https://finance.yahoo.com/quote/WULF",
+      "meta": {
+        "ticker": "WULF",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -0.375,
+        "revenue_estimate": 64210490.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -0.3337,
+        "last_eps_estimate": -0.27
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "category": "earnings",
+      "title": "Constellation Energy Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CEG"
+      ],
+      "watch": "Data center power demand, long-term PPAs",
+      "source_url": "https://finance.yahoo.com/quote/CEG",
+      "meta": {
+        "ticker": "CEG",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 3.75279,
+        "revenue_estimate": 9350469670.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 2.55,
+        "last_eps_estimate": 2.28235
+      }
     }
   ]
 }
