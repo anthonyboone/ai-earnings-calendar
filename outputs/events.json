@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26",
-  "today": "2026-09-26",
+  "generated": "2026-09-27",
+  "today": "2026-09-27",
   "events": [
     {
       "date": "2026-09-29",
@@ -82,7 +82,7 @@
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
         "eps_estimate": -0.30229,
-        "revenue_estimate": 128980200.0,
+        "revenue_estimate": 124566830.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-05-31",
         "last_eps_actual": 0.04,
@@ -297,8 +297,8 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45008,
-        "revenue_estimate": 27488684330.0,
+        "eps_estimate": 0.44848,
+        "revenue_estimate": 27449536180.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
@@ -393,8 +393,8 @@
         "ticker": "CDNS",
         "subsector": "EDA / chip design",
         "date_confirmed": true,
-        "eps_estimate": 2.04539,
-        "revenue_estimate": 1612037770.0,
+        "eps_estimate": 2.04569,
+        "revenue_estimate": 1612178760.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.11,
@@ -1257,8 +1257,8 @@
         "ticker": "ARM",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 0.47338,
-        "revenue_estimate": 1375935220.0,
+        "eps_estimate": 0.47351,
+        "revenue_estimate": 1375778890.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.45,
@@ -1569,7 +1569,7 @@
         "ticker": "ONTO",
         "subsector": "Semiconductor equipment",
         "date_confirmed": true,
-        "eps_estimate": 2.30657,
+        "eps_estimate": 2.30422,
         "revenue_estimate": 392235500.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -1870,7 +1870,7 @@
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
         "eps_estimate": -0.375,
-        "revenue_estimate": 64210490.0,
+        "revenue_estimate": 64309740.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": -0.3337,
@@ -1983,6 +1983,30 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": -0.28,
         "last_eps_estimate": -0.16039
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "category": "earnings",
+      "title": "CoreWeave Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRWV"
+      ],
+      "watch": "GPU compute supply, customer concentration, contract backlog",
+      "source_url": "https://finance.yahoo.com/quote/CRWV",
+      "meta": {
+        "ticker": "CRWV",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -1.19113,
+        "revenue_estimate": 3540824940.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -1.14,
+        "last_eps_estimate": -1.46997
       }
     }
   ]
