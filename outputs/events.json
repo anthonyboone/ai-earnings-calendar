@@ -1757,30 +1757,6 @@
     {
       "date": "2026-11-05",
       "category": "earnings",
-      "title": "Vistra Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "VST"
-      ],
-      "watch": "Data center power demand, long-term PPAs",
-      "source_url": "https://finance.yahoo.com/quote/VST",
-      "meta": {
-        "ticker": "VST",
-        "subsector": "Power / nuclear (AI data centers)",
-        "date_confirmed": true,
-        "eps_estimate": 2.855,
-        "revenue_estimate": 7584411250.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.76,
-        "last_eps_estimate": 1.65945
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "category": "earnings",
       "title": "NRG Energy Earnings",
       "importance": 2,
       "end_date": "",
@@ -1837,6 +1813,30 @@
       "watch": "Labor market strength directly affects Fed rate cut path",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "meta": {}
+    },
+    {
+      "date": "2026-11-06",
+      "category": "earnings",
+      "title": "Vistra Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "VST"
+      ],
+      "watch": "Data center power demand, long-term PPAs",
+      "source_url": "https://finance.yahoo.com/quote/VST",
+      "meta": {
+        "ticker": "VST",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": 2.855,
+        "revenue_estimate": 7584411250.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.76,
+        "last_eps_estimate": 1.65945
+      }
     },
     {
       "date": "2026-11-09",
