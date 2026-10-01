@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01",
-  "today": "2026-10-01",
+  "generated": "2026-10-02",
+  "today": "2026-10-02",
   "events": [
     {
       "date": "2026-10-02",
@@ -222,8 +222,8 @@
         "ticker": "VRT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.82848,
-        "revenue_estimate": 3771561270.0,
+        "eps_estimate": 1.82844,
+        "revenue_estimate": 3773725110.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.52,
@@ -546,7 +546,7 @@
         "ticker": "GEV",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 3.96664,
+        "eps_estimate": 3.96581,
         "revenue_estimate": 12010216970.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -822,8 +822,8 @@
         "ticker": "NVT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.39204,
-        "revenue_estimate": 1429600230.0,
+        "eps_estimate": 1.3909,
+        "revenue_estimate": 1430051430.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.45,
@@ -1950,8 +1950,8 @@
         "ticker": "CRWV",
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
-        "eps_estimate": -1.18902,
-        "revenue_estimate": 3537777800.0,
+        "eps_estimate": -1.18971,
+        "revenue_estimate": 3537763520.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": -1.14,
@@ -2004,6 +2004,30 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 1.22,
         "last_eps_estimate": 1.16883
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "category": "earnings",
+      "title": "Camtek Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CAMT"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/CAMT",
+      "meta": {
+        "ticker": "CAMT",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.98056,
+        "revenue_estimate": 159039770.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.78,
+        "last_eps_estimate": 0.75873
       }
     }
   ]
