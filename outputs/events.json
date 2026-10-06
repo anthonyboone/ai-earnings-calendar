@@ -234,36 +234,12 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.43685,
+        "eps_estimate": 0.44738,
         "revenue_estimate": 27905391170.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
         "last_eps_estimate": 0.54236
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "category": "earnings",
-      "title": "Intel Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "INTC"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/INTC",
-      "meta": {
-        "ticker": "INTC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.39091,
-        "revenue_estimate": 16434269030.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.42,
-        "last_eps_estimate": 0.21584
       }
     },
     {
@@ -660,6 +636,30 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.51,
         "last_eps_estimate": 0.46953
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "category": "earnings",
+      "title": "Intel Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "INTC"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/INTC",
+      "meta": {
+        "ticker": "INTC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.39091,
+        "revenue_estimate": 16434269030.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.42,
+        "last_eps_estimate": 0.21584
       }
     },
     {
