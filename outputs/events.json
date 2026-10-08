@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08",
-  "today": "2026-10-08",
+  "generated": "2026-10-09",
+  "today": "2026-10-09",
   "events": [
     {
       "date": "2026-10-14",
@@ -55,7 +55,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 4.47918,
-        "revenue_estimate": 1455665055340.0,
+        "revenue_estimate": 1455552055340.0,
         "revenue_currency": "TWD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 4.31,
@@ -210,12 +210,36 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45071,
+        "eps_estimate": 0.45074,
         "revenue_estimate": 28013915020.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
         "last_eps_estimate": 0.54236
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "category": "earnings",
+      "title": "Western Digital Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WDC"
+      ],
+      "watch": "HBM/storage pricing & supply, AI-driven demand",
+      "source_url": "https://finance.yahoo.com/quote/WDC",
+      "meta": {
+        "ticker": "WDC",
+        "subsector": "Memory / storage (AI)",
+        "date_confirmed": true,
+        "eps_estimate": 4.0424,
+        "revenue_estimate": 4133348060.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 3.56,
+        "last_eps_estimate": 3.30022
       }
     },
     {
@@ -451,7 +475,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 3.05895,
-        "revenue_estimate": 127303453410.0,
+        "revenue_estimate": 127299607260.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 9.11,
@@ -1589,30 +1613,6 @@
     {
       "date": "2026-11-05",
       "category": "earnings",
-      "title": "Western Digital Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "WDC"
-      ],
-      "watch": "HBM/storage pricing & supply, AI-driven demand",
-      "source_url": "https://finance.yahoo.com/quote/WDC",
-      "meta": {
-        "ticker": "WDC",
-        "subsector": "Memory / storage (AI)",
-        "date_confirmed": true,
-        "eps_estimate": 4.0424,
-        "revenue_estimate": 4133348060.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 3.56,
-        "last_eps_estimate": 3.30022
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "category": "earnings",
       "title": "Datadog Earnings",
       "importance": 2,
       "end_date": "",
@@ -2149,6 +2149,30 @@
       "watch": "Monthly options expire, potential end-of-day volatility",
       "source_url": "",
       "meta": {}
+    },
+    {
+      "date": "2026-11-23",
+      "category": "earnings",
+      "title": "Semtech Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SMTC"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/SMTC",
+      "meta": {
+        "ticker": "SMTC",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.05666,
+        "revenue_estimate": 410616640.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.71,
+        "last_eps_estimate": 0.61402
+      }
     }
   ]
 }
