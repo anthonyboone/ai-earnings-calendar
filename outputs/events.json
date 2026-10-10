@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10",
-  "today": "2026-10-10",
+  "generated": "2026-10-11",
+  "today": "2026-10-11",
   "events": [
     {
       "date": "2026-10-14",
@@ -210,8 +210,8 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45225,
-        "revenue_estimate": 28025453480.0,
+        "eps_estimate": 0.44794,
+        "revenue_estimate": 28044361180.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.33,
@@ -474,7 +474,7 @@
         "ticker": "GOOGL",
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
-        "eps_estimate": 3.06725,
+        "eps_estimate": 3.05457,
         "revenue_estimate": 127400614950.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -1626,8 +1626,8 @@
         "ticker": "DDOG",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.64071,
-        "revenue_estimate": 1144394130.0,
+        "eps_estimate": 0.64068,
+        "revenue_estimate": 1144394060.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.65,
@@ -2197,6 +2197,18 @@
         "last_eps_actual": 1.19,
         "last_eps_estimate": 1.08997
       }
+    },
+    {
+      "date": "2026-11-25",
+      "category": "macro",
+      "title": "PCE Price Index (Oct)",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "meta": {}
     }
   ]
 }
