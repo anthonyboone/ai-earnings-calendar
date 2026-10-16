@@ -88,11 +88,11 @@ def build_ics_text(events: list[Event], today: dt.date) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//ai-earnings-calendar//ZH//EN",
+        "PRODID:-//ai-earnings-calendar//EN//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{_esc(_CAL_NAME)}",
-        "X-WR-TIMEZONE:Asia/Shanghai",
+        "X-WR-TIMEZONE:America/Chicago",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
         "X-PUBLISHED-TTL:PT12H",
     ]

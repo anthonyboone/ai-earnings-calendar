@@ -61,7 +61,7 @@ by category, and `events.ics` can be subscribed to from Apple/Google Calendar
    committed earnings are reused so that section never disappears. Macro/Fed/
    conference/options/index events are network-free and always present.
 
-`.github/workflows/daily.yml` runs daily (11:00 UTC = 19:00 Beijing Time) and deploys.
+`.github/workflows/daily.yml` runs daily and deploys.
 
 ## Limitations
 

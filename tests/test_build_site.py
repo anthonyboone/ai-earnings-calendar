@@ -59,7 +59,7 @@ def test_tiny_estimate_base_suppresses_percentage():
 def test_header_and_filter_js():
     ev = Event(date="2026-06-18", category="options", title="t", watch="w")
     html = build_html([ev], [], today=TODAY)
-    assert "Beijing Time" in html and "(UTC)" not in html
+    assert "Central Time" in html and "(UTC)" not in html
     assert "function flt(" in html and 'data-cat="options"' in html
     assert 'href="events.ics"' in html
 

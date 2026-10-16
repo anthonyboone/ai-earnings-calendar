@@ -40,7 +40,7 @@ _CSS = """
 :root{--bg:#0f1115;--card:#1a1d24;--ink:#e8eaed;--muted:#9aa0aa;--line:#2a2e37;}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);
-font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;line-height:1.5;}
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.5;}
 .wrap{max-width:920px;margin:0 auto;padding:0 16px 64px;}
 header{position:sticky;top:0;background:rgba(15,17,21,.92);backdrop-filter:blur(8px);
 border-bottom:1px solid var(--line);padding:14px 16px;z-index:9;}
@@ -218,13 +218,13 @@ def build_html(this_week: list[Event], upcoming: list[Event],
 
     parts: list[str] = []
     A = parts.append
-    A('<!doctype html><html lang="zh"><head><meta charset="utf-8">')
+    A('<!doctype html><html lang="en"><head><meta charset="utf-8">')
     A('<meta name="viewport" content="width=device-width,initial-scale=1">')
     A('<meta name="theme-color" content="#0f1115">')
     A("<title>AI Market Event Calendar</title>")
     A(f"<style>{_CSS}</style></head><body>")
     A('<header><div class="wrap"><h1>🗓️ AI Market Event Calendar</h1>'
-      f'<span class="upd">Updated {today} (Beijing Time) · {len(this_week)} events in 7 days · {total} events in 45 days</span>'
+      f'<span class="upd">Updated {today} (Central Time) · {len(this_week)} events in 7 days · {total} events in 45 days</span>'
       "</div></header>")
     A('<div class="wrap">')
 

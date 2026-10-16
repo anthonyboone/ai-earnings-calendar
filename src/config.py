@@ -32,13 +32,11 @@ def load_companies(path: str | Path = AI_COMPANIES_PATH) -> list[dict]:
     return data.get("companies", []) if isinstance(data, dict) else []
 
 
-VIEWER_TZ = "Asia/Shanghai"   # the calendar is read in Beijing time
+VIEWER_TZ = "America/Chicago"   # the calendar is read in US Central time
 
 
 def today_local():
-    """'Today' in the viewer's timezone (Beijing). The Beijing day starts ~13h
-    before the user's afternoon, so even with GitHub's multi-hour scheduling
-    delay the new day's view is ready throughout their day. Falls back to UTC."""
+    """'Today' in the viewer's timezone (US Central). Falls back to UTC."""
     import datetime as dt
     try:
         from zoneinfo import ZoneInfo

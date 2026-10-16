@@ -79,7 +79,7 @@ def test_fomc_dates_are_decision_days():
 
 def test_earnings_events_includes_day_zero(monkeypatch):
     """An earnings report dated 'today' is still upcoming (US AMC happens
-    overnight Beijing time) and must not vanish from the calendar."""
+    after the close) and must not vanish from the calendar."""
     from src import providers
     from src.fetch_earnings import Earnings
 
