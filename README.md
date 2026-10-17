@@ -44,7 +44,7 @@ Open `site/index.html`. Outputs: `outputs/events.json` (committed) + `site/`
 
 The site is a single self-contained HTML page (no CDN): the legend chips filter
 by category, and `events.ics` can be subscribed to from Apple/Google Calendar
-(`https://nelpower.github.io/ai-earnings-calendar/events.ics`).
+(`https://anthonyboone.github.io/ai-earnings-calendar/events.ics`).
 
 ## How it works (daily run logic)
 
@@ -61,7 +61,7 @@ by category, and `events.ics` can be subscribed to from Apple/Google Calendar
    committed earnings are reused so that section never disappears. Macro/Fed/
    conference/options/index events are network-free and always present.
 
-`.github/workflows/daily.yml` runs daily (11:00 UTC = 19:00 Beijing Time) and deploys.
+`.github/workflows/daily.yml` runs three times daily (just after midnight / 04:20 / 08:20 US Central Time) and deploys.
 
 ## Limitations
 
