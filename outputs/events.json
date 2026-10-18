@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17",
-  "today": "2026-10-17",
+  "generated": "2026-10-18",
+  "today": "2026-10-18",
   "events": [
     {
       "date": "2026-10-20",
@@ -67,7 +67,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 6.75909,
-        "revenue_estimate": 63378695790.0,
+        "revenue_estimate": 63388570790.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 6.18,
@@ -114,7 +114,7 @@
         "ticker": "TSLA",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 0.45223,
+        "eps_estimate": 0.45054,
         "revenue_estimate": 28111085380.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -138,8 +138,8 @@
         "ticker": "WDC",
         "subsector": "Memory / storage (AI)",
         "date_confirmed": true,
-        "eps_estimate": 4.07706,
-        "revenue_estimate": 4138076370.0,
+        "eps_estimate": 4.07856,
+        "revenue_estimate": 4138234270.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 3.56,
@@ -282,8 +282,8 @@
         "ticker": "STX",
         "subsector": "Memory / storage (AI)",
         "date_confirmed": true,
-        "eps_estimate": 7.38205,
-        "revenue_estimate": 4130099420.0,
+        "eps_estimate": 7.38416,
+        "revenue_estimate": 4130625730.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 5.71,
@@ -558,8 +558,8 @@
         "ticker": "FTNT",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.85818,
-        "revenue_estimate": 2063371330.0,
+        "eps_estimate": 0.85823,
+        "revenue_estimate": 2063532610.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.9,
@@ -2366,6 +2366,78 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 1.05,
         "last_eps_estimate": 0.96395
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "category": "earnings",
+      "title": "Salesforce Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRM"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/CRM",
+      "meta": {
+        "ticker": "CRM",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 3.44653,
+        "revenue_estimate": 11462684880.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 5.9,
+        "last_eps_estimate": 3.27116
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "category": "earnings",
+      "title": "Snowflake Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SNOW"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/SNOW",
+      "meta": {
+        "ticker": "SNOW",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.59992,
+        "revenue_estimate": 1654186550.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.62,
+        "last_eps_estimate": 0.44698
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "category": "earnings",
+      "title": "UiPath Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "PATH"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/PATH",
+      "meta": {
+        "ticker": "PATH",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.19103,
+        "revenue_estimate": 443018410.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.15,
+        "last_eps_estimate": 0.14766
       }
     }
   ]
