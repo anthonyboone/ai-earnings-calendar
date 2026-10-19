@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19",
-  "today": "2026-10-19",
+  "generated": "2026-10-20",
+  "today": "2026-10-20",
   "events": [
     {
       "date": "2026-10-20",
@@ -1363,7 +1363,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 4.33862,
-        "revenue_estimate": 2072077550.0,
+        "revenue_estimate": 2072576250.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 3.76,
@@ -2487,6 +2487,18 @@
         "last_eps_actual": 0.99,
         "last_eps_estimate": 0.93849
       }
+    },
+    {
+      "date": "2026-12-04",
+      "category": "macro",
+      "title": "Nonfarm Payrolls (Nov)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Last NFP before Dec 8-9 FOMC meeting",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "meta": {}
     }
   ]
 }
