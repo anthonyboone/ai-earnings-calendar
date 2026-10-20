@@ -67,7 +67,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 6.80167,
-        "revenue_estimate": 63400497920.0,
+        "revenue_estimate": 63405722410.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 6.18,
@@ -138,7 +138,7 @@
         "ticker": "WDC",
         "subsector": "Memory / storage (AI)",
         "date_confirmed": true,
-        "eps_estimate": 4.08219,
+        "eps_estimate": 4.08269,
         "revenue_estimate": 4139971110.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -331,7 +331,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 0.12274,
-        "revenue_estimate": 75495430740.0,
+        "revenue_estimate": 75317697410.0,
         "revenue_currency": "TWD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.52,
@@ -462,8 +462,8 @@
         "ticker": "VRT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.82382,
-        "revenue_estimate": 3762687410.0,
+        "eps_estimate": 1.82366,
+        "revenue_estimate": 3762379600.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.52,
@@ -534,8 +534,8 @@
         "ticker": "NOW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 1.02284,
-        "revenue_estimate": 4094374960.0,
+        "eps_estimate": 1.0231,
+        "revenue_estimate": 4094546460.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.9,
@@ -678,8 +678,8 @@
         "ticker": "ENTG",
         "subsector": "Semiconductor equipment",
         "date_confirmed": true,
-        "eps_estimate": 1.02359,
-        "revenue_estimate": 924916670.0,
+        "eps_estimate": 1.02424,
+        "revenue_estimate": 925345500.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.93,
@@ -703,7 +703,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 1.98071,
-        "revenue_estimate": 202162044620.0,
+        "revenue_estimate": 202197758900.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 5.75,
@@ -762,8 +762,8 @@
         "ticker": "NVT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.39376,
-        "revenue_estimate": 1432484760.0,
+        "eps_estimate": 1.39447,
+        "revenue_estimate": 1433019560.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.45,
@@ -906,8 +906,8 @@
         "ticker": "AAPL",
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
-        "eps_estimate": 1.98212,
-        "revenue_estimate": 113626875100.0,
+        "eps_estimate": 1.98187,
+        "revenue_estimate": 113357085200.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.02,
@@ -1085,6 +1085,30 @@
     {
       "date": "2026-11-03",
       "category": "earnings",
+      "title": "Dynatrace Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DT"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/DT",
+      "meta": {
+        "ticker": "DT",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.49082,
+        "revenue_estimate": 568059740.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.48,
+        "last_eps_estimate": 0.44378
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
       "title": "Qualys Earnings",
       "importance": 2,
       "end_date": "",
@@ -1104,6 +1128,30 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.98,
         "last_eps_estimate": 1.78483
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "category": "earnings",
+      "title": "DigitalOcean Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "DOCN"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/DOCN",
+      "meta": {
+        "ticker": "DOCN",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.31857,
+        "revenue_estimate": 306723910.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.45,
+        "last_eps_estimate": 0.26023
       }
     },
     {
@@ -1325,30 +1373,6 @@
     {
       "date": "2026-11-04",
       "category": "earnings",
-      "title": "Dynatrace Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "DT"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/DT",
-      "meta": {
-        "ticker": "DT",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.49082,
-        "revenue_estimate": 568059740.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.48,
-        "last_eps_estimate": 0.44378
-      }
-    },
-    {
-      "date": "2026-11-04",
-      "category": "earnings",
       "title": "AppLovin Earnings",
       "importance": 2,
       "end_date": "",
@@ -1368,30 +1392,6 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 3.76,
         "last_eps_estimate": 3.74407
-      }
-    },
-    {
-      "date": "2026-11-04",
-      "category": "earnings",
-      "title": "DigitalOcean Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "DOCN"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/DOCN",
-      "meta": {
-        "ticker": "DOCN",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.31857,
-        "revenue_estimate": 306723910.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.45,
-        "last_eps_estimate": 0.26023
       }
     },
     {
@@ -1842,7 +1842,7 @@
         "ticker": "OKLO",
         "subsector": "Power / nuclear (AI data centers)",
         "date_confirmed": true,
-        "eps_estimate": -0.25542,
+        "eps_estimate": -0.2588,
         "revenue_estimate": 993170.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
