@@ -1277,6 +1277,30 @@
     {
       "date": "2026-11-04",
       "category": "earnings",
+      "title": "Camtek Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CAMT"
+      ],
+      "watch": "Equipment orders, WFE capex, exports to China",
+      "source_url": "https://finance.yahoo.com/quote/CAMT",
+      "meta": {
+        "ticker": "CAMT",
+        "subsector": "Semiconductor equipment",
+        "date_confirmed": true,
+        "eps_estimate": 0.9895,
+        "revenue_estimate": 160573900.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.78,
+        "last_eps_estimate": 0.75873
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "category": "earnings",
       "title": "Coherent Earnings",
       "importance": 3,
       "end_date": "",
@@ -1716,30 +1740,6 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.93,
         "last_eps_estimate": 1.69079
-      }
-    },
-    {
-      "date": "2026-11-09",
-      "category": "earnings",
-      "title": "Camtek Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CAMT"
-      ],
-      "watch": "Equipment orders, WFE capex, exports to China",
-      "source_url": "https://finance.yahoo.com/quote/CAMT",
-      "meta": {
-        "ticker": "CAMT",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 0.9895,
-        "revenue_estimate": 160573900.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.78,
-        "last_eps_estimate": 0.75873
       }
     },
     {
