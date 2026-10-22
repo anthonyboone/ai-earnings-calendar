@@ -1,31 +1,7 @@
 {
-  "generated": "2026-10-22",
-  "today": "2026-10-22",
+  "generated": "2026-10-23",
+  "today": "2026-10-23",
   "events": [
-    {
-      "date": "2026-10-22",
-      "category": "earnings",
-      "title": "Western Digital Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "WDC"
-      ],
-      "watch": "HBM/storage pricing & supply, AI-driven demand",
-      "source_url": "https://finance.yahoo.com/quote/WDC",
-      "meta": {
-        "ticker": "WDC",
-        "subsector": "Memory / storage (AI)",
-        "date_confirmed": true,
-        "eps_estimate": 4.09619,
-        "revenue_estimate": 4145113980.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 3.56,
-        "last_eps_estimate": 3.30022
-      }
-    },
     {
       "date": "2026-10-26",
       "category": "earnings",
