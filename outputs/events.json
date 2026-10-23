@@ -1599,6 +1599,30 @@
       }
     },
     {
+      "date": "2026-11-06",
+      "category": "earnings",
+      "title": "Oklo Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "OKLO"
+      ],
+      "watch": "Data center power demand, long-term PPAs",
+      "source_url": "https://finance.yahoo.com/quote/OKLO",
+      "meta": {
+        "ticker": "OKLO",
+        "subsector": "Power / nuclear (AI data centers)",
+        "date_confirmed": true,
+        "eps_estimate": -0.25882,
+        "revenue_estimate": 1049590.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -0.28,
+        "last_eps_estimate": -0.16039
+      }
+    },
+    {
       "date": "2026-11-09",
       "category": "earnings",
       "title": "Onto Innovation Earnings",
@@ -1681,30 +1705,6 @@
       "watch": "Hot inflation → growth stocks pressured; cooling → risk appetite returns",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "meta": {}
-    },
-    {
-      "date": "2026-11-10",
-      "category": "earnings",
-      "title": "Oklo Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "OKLO"
-      ],
-      "watch": "Data center power demand, long-term PPAs",
-      "source_url": "https://finance.yahoo.com/quote/OKLO",
-      "meta": {
-        "ticker": "OKLO",
-        "subsector": "Power / nuclear (AI data centers)",
-        "date_confirmed": true,
-        "eps_estimate": -0.25882,
-        "revenue_estimate": 1049590.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": -0.28,
-        "last_eps_estimate": -0.16039
-      }
     },
     {
       "date": "2026-11-11",
