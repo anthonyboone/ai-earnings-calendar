@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24",
-  "today": "2026-10-24",
+  "generated": "2026-10-25",
+  "today": "2026-10-25",
   "events": [
     {
       "date": "2026-10-26",
@@ -1411,7 +1411,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.34308,
-        "revenue_estimate": 738089270.0,
+        "revenue_estimate": 738090880.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.29,
@@ -2265,7 +2265,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.59992,
-        "revenue_estimate": 1654186550.0,
+        "revenue_estimate": 1654183980.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.62,
@@ -2355,6 +2355,66 @@
       "watch": "Last NFP before Dec 8-9 FOMC meeting",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "meta": {}
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
+      "title": "Broadcom Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AVGO"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "meta": {
+        "ticker": "AVGO",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 3.83018,
+        "revenue_estimate": 34903492790.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 3.32,
+        "last_eps_estimate": 3.238
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "category": "fed",
+      "title": "FOMC Rate Decision (w/ Dot Plot, Last of Year)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "14:00",
+      "tickers": [],
+      "watch": "Meeting Dec 8-9; decision + SEP + dot plot + press conf",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "meta": {}
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
+      "title": "Adobe Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ADBE"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/ADBE",
+      "meta": {
+        "ticker": "ADBE",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 6.32965,
+        "revenue_estimate": 6830578620.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-08-31",
+        "last_eps_actual": 6.13,
+        "last_eps_estimate": 6.08663
+      }
     }
   ]
 }
