@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25",
-  "today": "2026-10-25",
+  "generated": "2026-10-26",
+  "today": "2026-10-26",
   "events": [
     {
       "date": "2026-10-26",
@@ -2415,6 +2415,18 @@
         "last_eps_actual": 6.13,
         "last_eps_estimate": 6.08663
       }
+    },
+    {
+      "date": "2026-12-10",
+      "category": "macro",
+      "title": "CPI Inflation Data (Nov)",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Next day enters FOMC blackout period for decision week; last major inflation data of the year",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "meta": {}
     }
   ]
 }
