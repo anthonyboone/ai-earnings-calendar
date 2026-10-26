@@ -1,79 +1,7 @@
 {
-  "generated": "2026-10-26",
-  "today": "2026-10-26",
+  "generated": "2026-10-27",
+  "today": "2026-10-27",
   "events": [
-    {
-      "date": "2026-10-26",
-      "category": "earnings",
-      "title": "Rambus Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "RMBS"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/RMBS",
-      "meta": {
-        "ticker": "RMBS",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.78833,
-        "revenue_estimate": 213000000.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.77,
-        "last_eps_estimate": 0.715
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "category": "earnings",
-      "title": "Amkor Technology Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AMKR"
-      ],
-      "watch": "Equipment orders, WFE capex, exports to China",
-      "source_url": "https://finance.yahoo.com/quote/AMKR",
-      "meta": {
-        "ticker": "AMKR",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 0.78441,
-        "revenue_estimate": 2039297480.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.7,
-        "last_eps_estimate": 0.48144
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "category": "earnings",
-      "title": "Cadence Design Systems Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CDNS"
-      ],
-      "watch": "Design activity, AI chip design demand",
-      "source_url": "https://finance.yahoo.com/quote/CDNS",
-      "meta": {
-        "ticker": "CDNS",
-        "subsector": "EDA / chip design",
-        "date_confirmed": true,
-        "eps_estimate": 2.05319,
-        "revenue_estimate": 1615109250.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 2.11,
-        "last_eps_estimate": 2.05529
-      }
-    },
     {
       "date": "2026-10-27",
       "category": "earnings",
@@ -941,30 +869,6 @@
     {
       "date": "2026-11-03",
       "category": "earnings",
-      "title": "Qualys Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "QLYS"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/QLYS",
-      "meta": {
-        "ticker": "QLYS",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 1.95569,
-        "revenue_estimate": 186607060.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.98,
-        "last_eps_estimate": 1.78483
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "category": "earnings",
       "title": "DigitalOcean Earnings",
       "importance": 2,
       "end_date": "",
@@ -1644,6 +1548,30 @@
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.93,
         "last_eps_estimate": 1.69079
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "category": "earnings",
+      "title": "Qualys Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "QLYS"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/QLYS",
+      "meta": {
+        "ticker": "QLYS",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 1.95569,
+        "revenue_estimate": 186607060.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.98,
+        "last_eps_estimate": 1.78483
       }
     },
     {
@@ -2426,6 +2354,18 @@
       "tickers": [],
       "watch": "Next day enters FOMC blackout period for decision week; last major inflation data of the year",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "meta": {}
+    },
+    {
+      "date": "2026-12-11",
+      "category": "index",
+      "title": "Russell Reconstitution (Dec, Semi-Annual)",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [],
+      "watch": "Effective after close, massive passive rebalancing at the closing cross, small-cap volume spikes; shifted to semi-annual (June & Dec) starting 2026",
+      "source_url": "https://www.lseg.com/en/ftse-russell/russell-reconstitution",
       "meta": {}
     }
   ]
