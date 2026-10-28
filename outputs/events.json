@@ -115,7 +115,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 2.96591,
-        "revenue_estimate": 127832702820.0,
+        "revenue_estimate": 127913936970.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 9.11,
@@ -150,12 +150,12 @@
         "ticker": "VRT",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.82366,
-        "revenue_estimate": 3762379600.0,
+        "eps_estimate": 2.21472,
+        "revenue_estimate": 4308977370.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.52,
-        "last_eps_estimate": 1.42824
+        "last_quarter": "2026-09-30",
+        "last_eps_actual": 2.21,
+        "last_eps_estimate": 1.82366
       }
     },
     {
@@ -174,12 +174,12 @@
         "ticker": "GEV",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 4.00427,
-        "revenue_estimate": 12004512780.0,
+        "eps_estimate": 6.53806,
+        "revenue_estimate": 13962556410.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 2.47,
-        "last_eps_estimate": 3.18468
+        "last_quarter": "2026-09-30",
+        "last_eps_actual": 4.81,
+        "last_eps_estimate": 4.01248
       }
     },
     {
@@ -391,7 +391,7 @@
         "subsector": "Hyperscale / cloud",
         "date_confirmed": true,
         "eps_estimate": 1.98917,
-        "revenue_estimate": 202242791190.0,
+        "revenue_estimate": 202244141010.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 5.75,
@@ -810,8 +810,8 @@
         "ticker": "TLN",
         "subsector": "Power / nuclear (AI data centers)",
         "date_confirmed": true,
-        "eps_estimate": 8.17355,
-        "revenue_estimate": 1330369720.0,
+        "eps_estimate": 7.05533,
+        "revenue_estimate": 1296655440.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.3745,
@@ -1026,8 +1026,8 @@
         "ticker": "HUBS",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 3.27094,
-        "revenue_estimate": 925304560.0,
+        "eps_estimate": 3.27304,
+        "revenue_estimate": 925506790.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 3.26,
@@ -1338,8 +1338,8 @@
         "ticker": "WULF",
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
-        "eps_estimate": -0.36333,
-        "revenue_estimate": 63797760.0,
+        "eps_estimate": -0.375,
+        "revenue_estimate": 63344840.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": -0.3337,
@@ -1375,7 +1375,7 @@
         "subsector": "Power / nuclear (AI data centers)",
         "date_confirmed": true,
         "eps_estimate": 3.01438,
-        "revenue_estimate": 6726853620.0,
+        "revenue_estimate": 6388425050.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.76,
@@ -1495,11 +1495,35 @@
         "subsector": "Power / nuclear (AI data centers)",
         "date_confirmed": true,
         "eps_estimate": 3.04498,
-        "revenue_estimate": 9353915960.0,
+        "revenue_estimate": 9267415960.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.49,
         "last_eps_estimate": 1.74005
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "category": "earnings",
+      "title": "CoreWeave Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRWV"
+      ],
+      "watch": "GPU compute supply, customer concentration, contract backlog",
+      "source_url": "https://finance.yahoo.com/quote/CRWV",
+      "meta": {
+        "ticker": "CRWV",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -1.20917,
+        "revenue_estimate": 3540875520.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -1.14,
+        "last_eps_estimate": -1.46997
       }
     },
     {
@@ -1537,30 +1561,6 @@
       "watch": "Hot inflation → growth stocks pressured; cooling → risk appetite returns",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "meta": {}
-    },
-    {
-      "date": "2026-11-11",
-      "category": "earnings",
-      "title": "CoreWeave Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CRWV"
-      ],
-      "watch": "GPU compute supply, customer concentration, contract backlog",
-      "source_url": "https://finance.yahoo.com/quote/CRWV",
-      "meta": {
-        "ticker": "CRWV",
-        "subsector": "AI cloud / GPU",
-        "date_confirmed": true,
-        "eps_estimate": -1.20917,
-        "revenue_estimate": 3540875520.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": -1.14,
-        "last_eps_estimate": -1.46997
-      }
     },
     {
       "date": "2026-11-12",
