@@ -1,163 +1,7 @@
 {
-  "generated": "2026-10-29",
-  "today": "2026-10-29",
+  "generated": "2026-10-30",
+  "today": "2026-10-30",
   "events": [
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "Intel Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "INTC"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/INTC",
-      "meta": {
-        "ticker": "INTC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.39804,
-        "revenue_estimate": 16486699590.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.42,
-        "last_eps_estimate": 0.21584
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "Monolithic Power Systems Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "MPWR"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/MPWR",
-      "meta": {
-        "ticker": "MPWR",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 7.74983,
-        "revenue_estimate": 1156634460.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 6.5,
-        "last_eps_estimate": 5.88072
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "ASE Technology Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ASX"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/ASX",
-      "meta": {
-        "ticker": "ASX",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.37692,
-        "revenue_estimate": 245692480420.0,
-        "revenue_currency": "TWD",
-        "last_quarter": "2026-09-30",
-        "last_eps_actual": NaN,
-        "last_eps_estimate": 0.35599
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "Entegris Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ENTG"
-      ],
-      "watch": "Equipment orders, WFE capex, exports to China",
-      "source_url": "https://finance.yahoo.com/quote/ENTG",
-      "meta": {
-        "ticker": "ENTG",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 1.02424,
-        "revenue_estimate": 925345500.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.93,
-        "last_eps_estimate": 0.8215
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "Amazon Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AMZN"
-      ],
-      "watch": "Cloud growth, AI capex, AI monetization",
-      "source_url": "https://finance.yahoo.com/quote/AMZN",
-      "meta": {
-        "ticker": "AMZN",
-        "subsector": "Hyperscale / cloud",
-        "date_confirmed": true,
-        "eps_estimate": 1.9925,
-        "revenue_estimate": 202264872830.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 5.75,
-        "last_eps_estimate": 1.82461
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "earnings",
-      "title": "Twilio Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "TWLO"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/TWLO",
-      "meta": {
-        "ticker": "TWLO",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 1.4683,
-        "revenue_estimate": 1514409390.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.47,
-        "last_eps_estimate": 1.32361
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "category": "macro",
-      "title": "PCE Price Index (Sep)",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "08:30",
-      "tickers": [],
-      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
-      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
-      "meta": {}
-    },
     {
       "date": "2026-10-30",
       "category": "earnings",
@@ -942,8 +786,8 @@
         "ticker": "NET",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.34308,
-        "revenue_estimate": 738090880.0,
+        "eps_estimate": 0.34343,
+        "revenue_estimate": 738296020.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.29,
@@ -966,7 +810,7 @@
         "ticker": "SOUN",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": -0.03,
+        "eps_estimate": -0.05,
         "revenue_estimate": 62177500.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -1098,8 +942,8 @@
         "ticker": "VST",
         "subsector": "Power / nuclear (AI data centers)",
         "date_confirmed": true,
-        "eps_estimate": 3.01438,
-        "revenue_estimate": 6388425050.0,
+        "eps_estimate": 3.08707,
+        "revenue_estimate": 5977906080.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.76,
@@ -1892,7 +1736,7 @@
         "ticker": "GWRE",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.7248,
+        "eps_estimate": 0.7228,
         "revenue_estimate": 376307180.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
@@ -1995,6 +1839,30 @@
       "watch": "Effective after close, massive passive rebalancing at the closing cross, small-cap volume spikes; shifted to semi-annual (June & Dec) starting 2026",
       "source_url": "https://www.lseg.com/en/ftse-russell/russell-reconstitution",
       "meta": {}
+    },
+    {
+      "date": "2026-12-14",
+      "category": "earnings",
+      "title": "Oracle Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "ORCL"
+      ],
+      "watch": "Cloud growth, AI capex, AI monetization",
+      "source_url": "https://finance.yahoo.com/quote/ORCL",
+      "meta": {
+        "ticker": "ORCL",
+        "subsector": "Hyperscale / cloud",
+        "date_confirmed": true,
+        "eps_estimate": 1.89182,
+        "revenue_estimate": 21326804220.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-08-31",
+        "last_eps_actual": 1.92,
+        "last_eps_estimate": 1.73834
+      }
     }
   ]
 }
