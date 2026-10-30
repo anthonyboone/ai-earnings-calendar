@@ -1,31 +1,7 @@
 {
-  "generated": "2026-10-30",
-  "today": "2026-10-30",
+  "generated": "2026-10-31",
+  "today": "2026-10-31",
   "events": [
-    {
-      "date": "2026-10-30",
-      "category": "earnings",
-      "title": "nVent Electric Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "NVT"
-      ],
-      "watch": "AI server orders & revenue, power/cooling demand",
-      "source_url": "https://finance.yahoo.com/quote/NVT",
-      "meta": {
-        "ticker": "NVT",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 1.245,
-        "revenue_estimate": 1395508750.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-09-30",
-        "last_eps_actual": 1.52,
-        "last_eps_estimate": 1.39521
-      }
-    },
     {
       "date": "2026-11-02",
       "category": "earnings",
@@ -1096,30 +1072,6 @@
     },
     {
       "date": "2026-11-10",
-      "category": "earnings",
-      "title": "Nebius Group Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "NBIS"
-      ],
-      "watch": "GPU compute supply, customer concentration, contract backlog",
-      "source_url": "https://finance.yahoo.com/quote/NBIS",
-      "meta": {
-        "ticker": "NBIS",
-        "subsector": "AI cloud / GPU",
-        "date_confirmed": true,
-        "eps_estimate": -0.605,
-        "revenue_estimate": 905738460.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": -0.68,
-        "last_eps_estimate": -0.86333
-      }
-    },
-    {
-      "date": "2026-11-10",
       "category": "macro",
       "title": "CPI Inflation Data (Oct)",
       "importance": 3,
@@ -1176,6 +1128,30 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 1.22,
         "last_eps_estimate": 1.16883
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "category": "earnings",
+      "title": "Nebius Group Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "NBIS"
+      ],
+      "watch": "GPU compute supply, customer concentration, contract backlog",
+      "source_url": "https://finance.yahoo.com/quote/NBIS",
+      "meta": {
+        "ticker": "NBIS",
+        "subsector": "AI cloud / GPU",
+        "date_confirmed": true,
+        "eps_estimate": -0.605,
+        "revenue_estimate": 905738460.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": -0.68,
+        "last_eps_estimate": -0.86333
       }
     },
     {
