@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01",
-  "today": "2026-11-01",
+  "generated": "2026-11-02",
+  "today": "2026-11-02",
   "events": [
     {
       "date": "2026-11-02",
@@ -306,8 +306,8 @@
         "ticker": "DT",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.49113,
-        "revenue_estimate": 568062680.0,
+        "eps_estimate": 0.49116,
+        "revenue_estimate": 568116570.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.48,
@@ -1689,7 +1689,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.19161,
-        "revenue_estimate": 443018410.0,
+        "revenue_estimate": 443019490.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.15,
