@@ -139,7 +139,7 @@
         "subsector": "Consumer / platform AI",
         "date_confirmed": true,
         "eps_estimate": 1.98463,
-        "revenue_estimate": 113252174380.0,
+        "revenue_estimate": 113265972500.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.02,
@@ -163,7 +163,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 1.93659,
-        "revenue_estimate": 13083021310.0,
+        "revenue_estimate": 13084823940.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 1.66,
@@ -1242,7 +1242,7 @@
         "ticker": "PANW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.9715,
+        "eps_estimate": 0.97062,
         "revenue_estimate": 3307502950.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
@@ -1601,6 +1601,30 @@
       }
     },
     {
+      "date": "2026-12-01",
+      "category": "earnings",
+      "title": "Workday Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "WDAY"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/WDAY",
+      "meta": {
+        "ticker": "WDAY",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 2.74495,
+        "revenue_estimate": 2691535090.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 2.75,
+        "last_eps_estimate": 2.61224
+      }
+    },
+    {
       "date": "2026-12-02",
       "category": "earnings",
       "title": "Salesforce Earnings",
@@ -1664,12 +1688,84 @@
         "ticker": "PATH",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.19103,
+        "eps_estimate": 0.19161,
         "revenue_estimate": 443018410.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.15,
         "last_eps_estimate": 0.14766
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "category": "earnings",
+      "title": "Hewlett Packard Enterprise Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "HPE"
+      ],
+      "watch": "AI server orders & revenue, power/cooling demand",
+      "source_url": "https://finance.yahoo.com/quote/HPE",
+      "meta": {
+        "ticker": "HPE",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 1.27513,
+        "revenue_estimate": 14371574890.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 1.11,
+        "last_eps_estimate": 0.93739
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "category": "earnings",
+      "title": "SentinelOne Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "S"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/S",
+      "meta": {
+        "ticker": "S",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.09135,
+        "revenue_estimate": 310192610.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.08,
+        "last_eps_estimate": 0.07183
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "category": "earnings",
+      "title": "Rubrik Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "RBRK"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/RBRK",
+      "meta": {
+        "ticker": "RBRK",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.0819,
+        "revenue_estimate": 430191250.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.2,
+        "last_eps_estimate": 0.03925
       }
     },
     {
@@ -1771,6 +1867,54 @@
     {
       "date": "2026-12-09",
       "category": "earnings",
+      "title": "Synopsys Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SNPS"
+      ],
+      "watch": "Design activity, AI chip design demand",
+      "source_url": "https://finance.yahoo.com/quote/SNPS",
+      "meta": {
+        "ticker": "SNPS",
+        "subsector": "EDA / chip design",
+        "date_confirmed": true,
+        "eps_estimate": 4.13323,
+        "revenue_estimate": 2562189820.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 3.91,
+        "last_eps_estimate": 3.67334
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
+      "title": "C3.ai Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AI"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/AI",
+      "meta": {
+        "ticker": "AI",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": -0.21255,
+        "revenue_estimate": 53170050.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": -0.2,
+        "last_eps_estimate": -0.26031
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "category": "earnings",
       "title": "Adobe Earnings",
       "importance": 2,
       "end_date": "",
@@ -1790,6 +1934,30 @@
         "last_quarter": "2026-08-31",
         "last_eps_actual": 6.13,
         "last_eps_estimate": 6.08663
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "category": "earnings",
+      "title": "Ciena Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CIEN"
+      ],
+      "watch": "Optical comms/CPO, AI-era bandwidth demand, network equipment orders",
+      "source_url": "https://finance.yahoo.com/quote/CIEN",
+      "meta": {
+        "ticker": "CIEN",
+        "subsector": "Networking / optical",
+        "date_confirmed": true,
+        "eps_estimate": 2.07665,
+        "revenue_estimate": 1759664870.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 2.11,
+        "last_eps_estimate": 1.72756
       }
     },
     {
