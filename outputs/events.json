@@ -42,8 +42,8 @@
         "ticker": "QCOM",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 2.16073,
-        "revenue_estimate": 10145914290.0,
+        "eps_estimate": 2.15954,
+        "revenue_estimate": 10141474290.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 2.21,
@@ -66,12 +66,12 @@
         "ticker": "GFS",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 0.51203,
-        "revenue_estimate": 1889293670.0,
+        "eps_estimate": 0.56893,
+        "revenue_estimate": 2002033320.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.46,
-        "last_eps_estimate": 0.43181
+        "last_quarter": "2026-09-30",
+        "last_eps_actual": 0.53,
+        "last_eps_estimate": 0.51203
       }
     },
     {
@@ -186,12 +186,12 @@
         "ticker": "DDOG",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.64093,
-        "revenue_estimate": 1147154240.0,
+        "eps_estimate": 0.63869,
+        "revenue_estimate": 1203621850.0,
         "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.65,
-        "last_eps_estimate": 0.58324
+        "last_quarter": "2026-09-30",
+        "last_eps_actual": 0.81,
+        "last_eps_estimate": 0.64093
       }
     },
     {
@@ -451,7 +451,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.23221,
-        "revenue_estimate": 165487420.0,
+        "revenue_estimate": 165485020.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": 0.27,
@@ -569,6 +569,30 @@
     {
       "date": "2026-11-09",
       "category": "earnings",
+      "title": "Silicon Labs Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SLAB"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/SLAB",
+      "meta": {
+        "ticker": "SLAB",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.84838,
+        "revenue_estimate": 242015690.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 0.71,
+        "last_eps_estimate": 0.68867
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "category": "earnings",
       "title": "Onto Innovation Earnings",
       "importance": 3,
       "end_date": "",
@@ -679,7 +703,7 @@
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
         "eps_estimate": -1.20917,
-        "revenue_estimate": 3540875520.0,
+        "revenue_estimate": 3540786350.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
         "last_eps_actual": -1.14,
@@ -771,6 +795,30 @@
       }
     },
     {
+      "date": "2026-11-16",
+      "category": "earnings",
+      "title": "Powell Industries Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "POWL"
+      ],
+      "watch": "AI server orders & revenue, power/cooling demand",
+      "source_url": "https://finance.yahoo.com/quote/POWL",
+      "meta": {
+        "ticker": "POWL",
+        "subsector": "Servers / power / cooling",
+        "date_confirmed": true,
+        "eps_estimate": 1.56959,
+        "revenue_estimate": 331394800.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-06-30",
+        "last_eps_actual": 1.42,
+        "last_eps_estimate": 1.46968
+      }
+    },
+    {
       "date": "2026-11-17",
       "category": "earnings",
       "title": "NVIDIA Earnings",
@@ -792,30 +840,6 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 2.22,
         "last_eps_estimate": 2.09113
-      }
-    },
-    {
-      "date": "2026-11-17",
-      "category": "earnings",
-      "title": "Powell Industries Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "POWL"
-      ],
-      "watch": "AI server orders & revenue, power/cooling demand",
-      "source_url": "https://finance.yahoo.com/quote/POWL",
-      "meta": {
-        "ticker": "POWL",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 1.56959,
-        "revenue_estimate": 331394800.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.42,
-        "last_eps_estimate": 1.46968
       }
     },
     {
@@ -990,8 +1014,8 @@
         "ticker": "DELL",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 6.56303,
-        "revenue_estimate": 49245274940.0,
+        "eps_estimate": 6.55373,
+        "revenue_estimate": 49175023750.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 7.04,
@@ -1185,7 +1209,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.31145,
-        "revenue_estimate": 1528559730.0,
+        "revenue_estimate": 1528559430.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.31,
