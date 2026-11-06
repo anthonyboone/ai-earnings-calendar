@@ -222,7 +222,7 @@
         "ticker": "CRWV",
         "subsector": "AI cloud / GPU",
         "date_confirmed": true,
-        "eps_estimate": -1.20917,
+        "eps_estimate": -1.20902,
         "revenue_estimate": 3540786350.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-06-30",
@@ -521,6 +521,30 @@
     {
       "date": "2026-11-24",
       "category": "earnings",
+      "title": "Ambarella Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AMBA"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/AMBA",
+      "meta": {
+        "ticker": "AMBA",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 0.31449,
+        "revenue_estimate": 119795800.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.18,
+        "last_eps_estimate": 0.17088
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "category": "earnings",
       "title": "Dell Technologies Earnings",
       "importance": 2,
       "end_date": "",
@@ -638,30 +662,6 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.94,
         "last_eps_estimate": 0.93077
-      }
-    },
-    {
-      "date": "2026-12-01",
-      "category": "earnings",
-      "title": "Ambarella Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AMBA"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/AMBA",
-      "meta": {
-        "ticker": "AMBA",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.31449,
-        "revenue_estimate": 119795800.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.18,
-        "last_eps_estimate": 0.17088
       }
     },
     {
@@ -835,30 +835,6 @@
     {
       "date": "2026-12-02",
       "category": "earnings",
-      "title": "UiPath Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "PATH"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/PATH",
-      "meta": {
-        "ticker": "PATH",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.19161,
-        "revenue_estimate": 443019490.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.15,
-        "last_eps_estimate": 0.14766
-      }
-    },
-    {
-      "date": "2026-12-02",
-      "category": "earnings",
       "title": "Zscaler Earnings",
       "importance": 2,
       "end_date": "",
@@ -902,6 +878,30 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.08,
         "last_eps_estimate": 0.07183
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "category": "earnings",
+      "title": "UiPath Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "PATH"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/PATH",
+      "meta": {
+        "ticker": "PATH",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.19161,
+        "revenue_estimate": 443019490.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.15,
+        "last_eps_estimate": 0.14766
       }
     },
     {
@@ -989,6 +989,30 @@
       "meta": {}
     },
     {
+      "date": "2026-12-08",
+      "category": "earnings",
+      "title": "Synopsys Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "SNPS"
+      ],
+      "watch": "Design activity, AI chip design demand",
+      "source_url": "https://finance.yahoo.com/quote/SNPS",
+      "meta": {
+        "ticker": "SNPS",
+        "subsector": "EDA / chip design",
+        "date_confirmed": true,
+        "eps_estimate": 4.13323,
+        "revenue_estimate": 2562189820.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 3.91,
+        "last_eps_estimate": 3.67334
+      }
+    },
+    {
       "date": "2026-12-09",
       "category": "earnings",
       "title": "Broadcom Earnings",
@@ -1023,30 +1047,6 @@
       "watch": "Meeting Dec 8-9; decision + SEP + dot plot + press conf",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "meta": {}
-    },
-    {
-      "date": "2026-12-09",
-      "category": "earnings",
-      "title": "Synopsys Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "SNPS"
-      ],
-      "watch": "Design activity, AI chip design demand",
-      "source_url": "https://finance.yahoo.com/quote/SNPS",
-      "meta": {
-        "ticker": "SNPS",
-        "subsector": "EDA / chip design",
-        "date_confirmed": true,
-        "eps_estimate": 4.13323,
-        "revenue_estimate": 2562189820.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 3.91,
-        "last_eps_estimate": 3.67334
-      }
     },
     {
       "date": "2026-12-09",
