@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07",
-  "today": "2026-11-07",
+  "generated": "2026-11-08",
+  "today": "2026-11-08",
   "events": [
     {
       "date": "2026-11-09",
@@ -1106,6 +1106,42 @@
       "tickers": [],
       "watch": "S&P quarterly rebalance effective today; passive buying for new additions, huge closing cross volume",
       "source_url": "https://www.spglobal.com/spdji/en/governance/methodology/",
+      "meta": {}
+    },
+    {
+      "date": "2026-12-23",
+      "category": "earnings",
+      "title": "Micron Technology Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "MU"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/MU",
+      "meta": {
+        "ticker": "MU",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 38.29128,
+        "revenue_estimate": 61832643300.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-08-31",
+        "last_eps_actual": 33.42,
+        "last_eps_estimate": 31.81801
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "category": "macro",
+      "title": "PCE Price Index (Nov)",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "08:30",
+      "tickers": [],
+      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
+      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
       "meta": {}
     }
   ]
