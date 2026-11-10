@@ -1,67 +1,7 @@
 {
-  "generated": "2026-11-10",
-  "today": "2026-11-10",
+  "generated": "2026-11-11",
+  "today": "2026-11-11",
   "events": [
-    {
-      "date": "2026-11-10",
-      "category": "earnings",
-      "title": "Silicon Labs Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "SLAB"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/SLAB",
-      "meta": {
-        "ticker": "SLAB",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.84838,
-        "revenue_estimate": 242015690.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 0.71,
-        "last_eps_estimate": 0.68867
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "category": "earnings",
-      "title": "CoreWeave Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CRWV"
-      ],
-      "watch": "GPU compute supply, customer concentration, contract backlog",
-      "source_url": "https://finance.yahoo.com/quote/CRWV",
-      "meta": {
-        "ticker": "CRWV",
-        "subsector": "AI cloud / GPU",
-        "date_confirmed": true,
-        "eps_estimate": -1.20885,
-        "revenue_estimate": 3540872060.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": -1.14,
-        "last_eps_estimate": -1.46997
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "category": "macro",
-      "title": "CPI Inflation Data (Oct)",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "08:30",
-      "tickers": [],
-      "watch": "Hot inflation → growth stocks pressured; cooling → risk appetite returns",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "meta": {}
-    },
     {
       "date": "2026-11-12",
       "category": "earnings",
