@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-11",
-  "today": "2026-11-11",
+  "generated": "2026-11-12",
+  "today": "2026-11-12",
   "events": [
     {
       "date": "2026-11-12",
@@ -364,30 +364,6 @@
     },
     {
       "date": "2026-11-30",
-      "category": "earnings",
-      "title": "Credo Technology Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CRDO"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/CRDO",
-      "meta": {
-        "ticker": "CRDO",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 1.2835,
-        "revenue_estimate": 531946580.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 1.2,
-        "last_eps_estimate": 1.16862
-      }
-    },
-    {
-      "date": "2026-11-30",
       "category": "conference",
       "title": "AWS re:Invent 2026 (Las Vegas)",
       "importance": 2,
@@ -399,6 +375,30 @@
       "watch": "AWS AI services, custom chips Trainium/Inferentia, cloud growth rate",
       "source_url": "https://aws.amazon.com/events/reinvent/",
       "meta": {}
+    },
+    {
+      "date": "2026-11-30",
+      "category": "earnings",
+      "title": "Rubrik Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "RBRK"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/RBRK",
+      "meta": {
+        "ticker": "RBRK",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": 0.0819,
+        "revenue_estimate": 430191250.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 0.2,
+        "last_eps_estimate": 0.03925
+      }
     },
     {
       "date": "2026-12-01",
@@ -422,6 +422,30 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.94,
         "last_eps_estimate": 0.93077
+      }
+    },
+    {
+      "date": "2026-12-01",
+      "category": "earnings",
+      "title": "Credo Technology Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "CRDO"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/CRDO",
+      "meta": {
+        "ticker": "CRDO",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 1.2835,
+        "revenue_estimate": 531946580.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": 1.2,
+        "last_eps_estimate": 1.16862
       }
     },
     {
@@ -662,30 +686,6 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.15,
         "last_eps_estimate": 0.14766
-      }
-    },
-    {
-      "date": "2026-12-03",
-      "category": "earnings",
-      "title": "Rubrik Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "RBRK"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/RBRK",
-      "meta": {
-        "ticker": "RBRK",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.0819,
-        "revenue_estimate": 430191250.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.2,
-        "last_eps_estimate": 0.03925
       }
     },
     {
