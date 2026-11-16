@@ -1,31 +1,7 @@
 {
-  "generated": "2026-11-16",
-  "today": "2026-11-16",
+  "generated": "2026-11-17",
+  "today": "2026-11-17",
   "events": [
-    {
-      "date": "2026-11-16",
-      "category": "earnings",
-      "title": "Powell Industries Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "POWL"
-      ],
-      "watch": "AI server orders & revenue, power/cooling demand",
-      "source_url": "https://finance.yahoo.com/quote/POWL",
-      "meta": {
-        "ticker": "POWL",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 1.56959,
-        "revenue_estimate": 331394800.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.42,
-        "last_eps_estimate": 1.46968
-      }
-    },
     {
       "date": "2026-11-17",
       "category": "earnings",
@@ -90,8 +66,8 @@
         "ticker": "PANW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.97062,
-        "revenue_estimate": 3307491840.0,
+        "eps_estimate": 0.9708,
+        "revenue_estimate": 3307457560.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 1.02,
@@ -115,7 +91,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.80952,
-        "revenue_estimate": 486767230.0,
+        "revenue_estimate": 486766110.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.7,
@@ -138,7 +114,7 @@
         "ticker": "INTU",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 2.63975,
+        "eps_estimate": 2.63936,
         "revenue_estimate": 4305869380.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
@@ -246,7 +222,7 @@
         "ticker": "DELL",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 6.55358,
+        "eps_estimate": 6.57838,
         "revenue_estimate": 49169949940.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
