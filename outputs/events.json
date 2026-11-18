@@ -1,55 +1,7 @@
 {
-  "generated": "2026-11-18",
-  "today": "2026-11-18",
+  "generated": "2026-11-19",
+  "today": "2026-11-19",
   "events": [
-    {
-      "date": "2026-11-18",
-      "category": "earnings",
-      "title": "Kulicke & Soffa Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "KLIC"
-      ],
-      "watch": "Equipment orders, WFE capex, exports to China",
-      "source_url": "https://finance.yahoo.com/quote/KLIC",
-      "meta": {
-        "ticker": "KLIC",
-        "subsector": "Semiconductor equipment",
-        "date_confirmed": true,
-        "eps_estimate": 1.43,
-        "revenue_estimate": 376800000.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-06-30",
-        "last_eps_actual": 1.2,
-        "last_eps_estimate": 1.00667
-      }
-    },
-    {
-      "date": "2026-11-18",
-      "category": "earnings",
-      "title": "Palo Alto Networks Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "PANW"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/PANW",
-      "meta": {
-        "ticker": "PANW",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.97032,
-        "revenue_estimate": 3307494060.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 1.02,
-        "last_eps_estimate": 0.97745
-      }
-    },
     {
       "date": "2026-11-19",
       "category": "earnings",
@@ -393,7 +345,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 1.60757,
-        "revenue_estimate": 761773220.0,
+        "revenue_estimate": 761821790.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 1.9,
@@ -417,7 +369,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.19976,
-        "revenue_estimate": 282741150.0,
+        "revenue_estimate": 282813150.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.24,
@@ -465,7 +417,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 3.4463,
-        "revenue_estimate": 11462294880.0,
+        "revenue_estimate": 11462305880.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 5.9,
