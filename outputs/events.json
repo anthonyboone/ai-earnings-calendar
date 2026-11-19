@@ -1,55 +1,7 @@
 {
-  "generated": "2026-11-19",
-  "today": "2026-11-19",
+  "generated": "2026-11-20",
+  "today": "2026-11-20",
   "events": [
-    {
-      "date": "2026-11-19",
-      "category": "earnings",
-      "title": "Elastic Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ESTC"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/ESTC",
-      "meta": {
-        "ticker": "ESTC",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.80952,
-        "revenue_estimate": 486766110.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.7,
-        "last_eps_estimate": 0.58406
-      }
-    },
-    {
-      "date": "2026-11-19",
-      "category": "earnings",
-      "title": "Intuit Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "INTU"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/INTU",
-      "meta": {
-        "ticker": "INTU",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 2.6409,
-        "revenue_estimate": 4305825900.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 4.03,
-        "last_eps_estimate": 3.58739
-      }
-    },
     {
       "date": "2026-11-20",
       "category": "options",
