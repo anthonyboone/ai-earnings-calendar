@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-20",
-  "today": "2026-11-20",
+  "generated": "2026-11-21",
+  "today": "2026-11-21",
   "events": [
-    {
-      "date": "2026-11-20",
-      "category": "options",
-      "title": "Monthly Options Expiry (OpEx)",
-      "importance": 1,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [],
-      "watch": "Monthly options expire, potential end-of-day volatility",
-      "source_url": "",
-      "meta": {}
-    },
     {
       "date": "2026-11-23",
       "category": "earnings",
