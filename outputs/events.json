@@ -54,7 +54,7 @@
         "ticker": "HPE",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 1.28123,
+        "eps_estimate": 1.28498,
         "revenue_estimate": 14425411720.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
@@ -102,8 +102,8 @@
         "ticker": "DELL",
         "subsector": "Servers / power / cooling",
         "date_confirmed": true,
-        "eps_estimate": 6.58806,
-        "revenue_estimate": 49196513130.0,
+        "eps_estimate": 6.55221,
+        "revenue_estimate": 49273922220.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 7.04,
@@ -201,7 +201,7 @@
         "subsector": "AI semiconductors",
         "date_confirmed": true,
         "eps_estimate": 1.10098,
-        "revenue_estimate": 3156204700.0,
+        "revenue_estimate": 3152214940.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.94,
@@ -248,8 +248,8 @@
         "ticker": "NTAP",
         "subsector": "Memory / storage (AI)",
         "date_confirmed": true,
-        "eps_estimate": 2.60388,
-        "revenue_estimate": 2106108910.0,
+        "eps_estimate": 2.60869,
+        "revenue_estimate": 2108285380.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 2.58,
@@ -489,7 +489,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.18847,
-        "revenue_estimate": 515205290.0,
+        "revenue_estimate": 515203670.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.2,
@@ -513,7 +513,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.722,
-        "revenue_estimate": 376242050.0,
+        "revenue_estimate": 376259700.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.99,
@@ -713,6 +713,30 @@
       }
     },
     {
+      "date": "2026-12-17",
+      "category": "earnings",
+      "title": "Micron Technology Earnings",
+      "importance": 3,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "MU"
+      ],
+      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
+      "source_url": "https://finance.yahoo.com/quote/MU",
+      "meta": {
+        "ticker": "MU",
+        "subsector": "AI semiconductors",
+        "date_confirmed": true,
+        "eps_estimate": 38.29128,
+        "revenue_estimate": 61832643300.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-08-31",
+        "last_eps_actual": 33.42,
+        "last_eps_estimate": 31.81801
+      }
+    },
+    {
       "date": "2026-12-18",
       "category": "options",
       "title": "Quad Witching (Quarterly Derivatives Expiry)",
@@ -735,30 +759,6 @@
       "watch": "S&P quarterly rebalance effective today; passive buying for new additions, huge closing cross volume",
       "source_url": "https://www.spglobal.com/spdji/en/governance/methodology/",
       "meta": {}
-    },
-    {
-      "date": "2026-12-23",
-      "category": "earnings",
-      "title": "Micron Technology Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "MU"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/MU",
-      "meta": {
-        "ticker": "MU",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 38.29128,
-        "revenue_estimate": 61832643300.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-08-31",
-        "last_eps_actual": 33.42,
-        "last_eps_estimate": 31.81801
-      }
     },
     {
       "date": "2026-12-23",
