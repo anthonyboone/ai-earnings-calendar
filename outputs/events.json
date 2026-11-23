@@ -1,55 +1,7 @@
 {
-  "generated": "2026-11-23",
-  "today": "2026-11-23",
+  "generated": "2026-11-24",
+  "today": "2026-11-24",
   "events": [
-    {
-      "date": "2026-11-23",
-      "category": "earnings",
-      "title": "Semtech Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "SMTC"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/SMTC",
-      "meta": {
-        "ticker": "SMTC",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 1.13237,
-        "revenue_estimate": 416428910.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.71,
-        "last_eps_estimate": 0.61402
-      }
-    },
-    {
-      "date": "2026-11-23",
-      "category": "earnings",
-      "title": "Hewlett Packard Enterprise Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "HPE"
-      ],
-      "watch": "AI server orders & revenue, power/cooling demand",
-      "source_url": "https://finance.yahoo.com/quote/HPE",
-      "meta": {
-        "ticker": "HPE",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 1.28821,
-        "revenue_estimate": 14425411720.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 1.11,
-        "last_eps_estimate": 0.93739
-      }
-    },
     {
       "date": "2026-11-24",
       "category": "earnings",
@@ -165,7 +117,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 0.08227,
-        "revenue_estimate": 430460400.0,
+        "revenue_estimate": 430475780.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.2,
@@ -242,30 +194,6 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 2.58,
         "last_eps_estimate": 2.12278
-      }
-    },
-    {
-      "date": "2026-12-01",
-      "category": "earnings",
-      "title": "CrowdStrike Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "CRWD"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/CRWD",
-      "meta": {
-        "ticker": "CRWD",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 0.31146,
-        "revenue_estimate": 1528559430.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.31,
-        "last_eps_estimate": 0.29141
       }
     },
     {
@@ -357,7 +285,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 3.4463,
-        "revenue_estimate": 11462305880.0,
+        "revenue_estimate": 11461698340.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 5.9,
@@ -386,30 +314,6 @@
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.62,
         "last_eps_estimate": 0.44698
-      }
-    },
-    {
-      "date": "2026-12-02",
-      "category": "earnings",
-      "title": "Zscaler Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "ZS"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/ZS",
-      "meta": {
-        "ticker": "ZS",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 1.16108,
-        "revenue_estimate": 938160410.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 1.19,
-        "last_eps_estimate": 1.08997
       }
     },
     {
