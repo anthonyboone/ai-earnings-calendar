@@ -1,79 +1,7 @@
 {
-  "generated": "2026-11-24",
-  "today": "2026-11-24",
+  "generated": "2026-11-25",
+  "today": "2026-11-25",
   "events": [
-    {
-      "date": "2026-11-24",
-      "category": "earnings",
-      "title": "Ambarella Earnings",
-      "importance": 3,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AMBA"
-      ],
-      "watch": "AI chip revenue, data center demand, custom ASIC, next quarter guidance",
-      "source_url": "https://finance.yahoo.com/quote/AMBA",
-      "meta": {
-        "ticker": "AMBA",
-        "subsector": "AI semiconductors",
-        "date_confirmed": true,
-        "eps_estimate": 0.31449,
-        "revenue_estimate": 119795800.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 0.18,
-        "last_eps_estimate": 0.17088
-      }
-    },
-    {
-      "date": "2026-11-24",
-      "category": "earnings",
-      "title": "Dell Technologies Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "DELL"
-      ],
-      "watch": "AI server orders & revenue, power/cooling demand",
-      "source_url": "https://finance.yahoo.com/quote/DELL",
-      "meta": {
-        "ticker": "DELL",
-        "subsector": "Servers / power / cooling",
-        "date_confirmed": true,
-        "eps_estimate": 6.55221,
-        "revenue_estimate": 49273922220.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 7.04,
-        "last_eps_estimate": 4.91833
-      }
-    },
-    {
-      "date": "2026-11-24",
-      "category": "earnings",
-      "title": "Workday Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "WDAY"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/WDAY",
-      "meta": {
-        "ticker": "WDAY",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": 2.74417,
-        "revenue_estimate": 2691536500.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": 2.75,
-        "last_eps_estimate": 2.61224
-      }
-    },
     {
       "date": "2026-11-25",
       "category": "macro",
@@ -308,12 +236,36 @@
         "ticker": "SNOW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.5983,
-        "revenue_estimate": 1654413500.0,
+        "eps_estimate": 0.59757,
+        "revenue_estimate": 1654416060.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.62,
         "last_eps_estimate": 0.44698
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "category": "earnings",
+      "title": "C3.ai Earnings",
+      "importance": 2,
+      "end_date": "",
+      "time_et": "",
+      "tickers": [
+        "AI"
+      ],
+      "watch": "AI software ARR, NRR, platform expansion, valuation",
+      "source_url": "https://finance.yahoo.com/quote/AI",
+      "meta": {
+        "ticker": "AI",
+        "subsector": "AI software / security / data",
+        "date_confirmed": true,
+        "eps_estimate": -0.21255,
+        "revenue_estimate": 53170050.0,
+        "revenue_currency": "USD",
+        "last_quarter": "2026-07-31",
+        "last_eps_actual": -0.2,
+        "last_eps_estimate": -0.26031
       }
     },
     {
@@ -487,30 +439,6 @@
     {
       "date": "2026-12-09",
       "category": "earnings",
-      "title": "C3.ai Earnings",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "",
-      "tickers": [
-        "AI"
-      ],
-      "watch": "AI software ARR, NRR, platform expansion, valuation",
-      "source_url": "https://finance.yahoo.com/quote/AI",
-      "meta": {
-        "ticker": "AI",
-        "subsector": "AI software / security / data",
-        "date_confirmed": true,
-        "eps_estimate": -0.21255,
-        "revenue_estimate": 53170050.0,
-        "revenue_currency": "USD",
-        "last_quarter": "2026-07-31",
-        "last_eps_actual": -0.2,
-        "last_eps_estimate": -0.26031
-      }
-    },
-    {
-      "date": "2026-12-09",
-      "category": "earnings",
       "title": "Adobe Earnings",
       "importance": 2,
       "end_date": "",
@@ -620,8 +548,8 @@
         "ticker": "MU",
         "subsector": "AI semiconductors",
         "date_confirmed": true,
-        "eps_estimate": 38.23674,
-        "revenue_estimate": 61744991720.0,
+        "eps_estimate": 38.24639,
+        "revenue_estimate": 61756168190.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-08-31",
         "last_eps_actual": 33.42,
