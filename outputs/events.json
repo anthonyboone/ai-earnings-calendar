@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-25",
-  "today": "2026-11-25",
+  "generated": "2026-11-26",
+  "today": "2026-11-26",
   "events": [
-    {
-      "date": "2026-11-25",
-      "category": "macro",
-      "title": "PCE Price Index (Oct)",
-      "importance": 2,
-      "end_date": "",
-      "time_et": "08:30",
-      "tickers": [],
-      "watch": "Fed's preferred inflation measure, impacts rate cut timing",
-      "source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
-      "meta": {}
-    },
     {
       "date": "2026-11-30",
       "category": "conference",
@@ -236,8 +224,8 @@
         "ticker": "SNOW",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 0.59757,
-        "revenue_estimate": 1654416060.0,
+        "eps_estimate": 0.59759,
+        "revenue_estimate": 1654470430.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
         "last_eps_actual": 0.62,
