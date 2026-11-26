@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26",
-  "today": "2026-11-26",
+  "generated": "2026-11-27",
+  "today": "2026-11-27",
   "events": [
     {
       "date": "2026-11-30",
@@ -128,7 +128,7 @@
         "ticker": "MDB",
         "subsector": "AI software / security / data",
         "date_confirmed": true,
-        "eps_estimate": 1.60718,
+        "eps_estimate": 1.60904,
         "revenue_estimate": 761754590.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-07-31",
@@ -441,7 +441,7 @@
         "subsector": "AI software / security / data",
         "date_confirmed": true,
         "eps_estimate": 6.32884,
-        "revenue_estimate": 6830578620.0,
+        "revenue_estimate": 6830593430.0,
         "revenue_currency": "USD",
         "last_quarter": "2026-08-31",
         "last_eps_actual": 6.13,
